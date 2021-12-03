@@ -1,0 +1,2659 @@
+2658
+345595365.4	1-800 FLOWERS.COM, Inc.
+71072566.98	1st Century Bancshares, Inc
+60248002.02	1st Constitution Bancorp (NJ)
+733324189.1	1st Source Corporation
+253051646.6	1st United Bancorp, Inc. (FL)
+1554802649	21Vianet Group, Inc.
+2460549616	51job, Inc.
+856779787.5	8x8 Inc
+428817791.1	A V Homes, Inc.
+967999147	A. Schulman, Inc.
+1078568152	AAON, Inc.
+14849223.78	Aastrom Biosciences, Inc.
+869459840	ABAXIS, Inc.
+1133113050	ABIOMED, Inc.
+307378992.6	Abraxas Petroleum Corporation
+696977430	Acacia Research Corporation
+2529134023	Acadia Healthcare Company, Inc.
+2620588995	ACADIA Pharmaceuticals Inc.
+134476871.7	Acasti Pharma, Inc.
+612090130	Accelerate Diagnostics, Inc.
+1477348981	Acceleron Pharma Inc.
+695261395.6	Accelrys, Inc.
+168794414.4	Access National Corporation
+741990666.9	Accuray Incorporated
+517332013.4	AcelRx Pharmaceuticals, Inc.
+514596008.8	Aceto Corporation
+326763233.9	Achillion Pharmaceuticals, Inc.
+2272731061	ACI Worldwide, Inc.
+113327492.7	ACNB Corporation
+1469375297	Acorda Therapeutics, Inc.
+81278436.71	Acorn Energy, Inc.
+208120000	Actions Semiconductor Co., Ltd.
+66410756.2	Active Power, Inc.
+13713929847	Activision Blizzard, Inc
+271533328.2	Actuate Corporation
+92295711.42	Acura Pharmaceuticals, Inc.
+2777117636	Acxiom Corporation
+67351951.67	Adamis Pharmaceuticals Corporation
+300434146.7	Addus HomeCare Corporation
+29053583.18	ADDvantage Technologies Group, Inc.
+188740355.4	Adept Technology, Inc.
+33878356466	Adobe Systems Incorporated
+1513772086	ADTRAN, Inc.
+572883580.4	Advanced Emissions Solutions, Inc.
+1140351352	Advanced Energy Industries, Inc.
+71719180.94	Advaxis, Inc.
+1571328516	Advent Software, Inc.
+1947469565	Aegerion Pharmaceuticals, Inc.
+798949136.8	Aegion Corp
+27217211.36	Aehr Test Systems
+244271210.3	AEP Industries Inc.
+489677091	Aerie Pharmaceuticals, Inc.
+748925967.2	AeroVironment, Inc.
+73768731.79	AEterna Zentaris Inc.
+6484150.464	Aetrium Incorporated
+530029299.7	Affymetrix, Inc.
+137634599.8	Agenus Inc.
+312389903.5	Agilysys, Inc.
+996542272.9	Agios Pharmaceuticals, Inc.
+2116316625	Air Methods Corporation
+29355432	Air T, Inc.
+407401350.3	Air Transport Services Group, Inc
+153251167.4	AirMedia Group Inc
+1747623168	Aixtron SE
+11048250395	Akamai Technologies, Inc.
+23495217.6	Akers Biosciences Inc
+2551538524	Akorn, Inc.
+105899285.7	Alaska Communications Systems Group, Inc.
+473936341.7	Albany Molecular Research, Inc.
+33721987.05	ALCO Stores, Inc.
+296087422.1	Alcobra Ltd.
+35591422728	Alexion Pharmaceuticals, Inc.
+94686475.92	Alexza Pharmaceuticals, Inc.
+270605410.8	Alico, Inc.
+4255287004	Align Technology, Inc.
+219696387.5	Alimera Sciences, Inc.
+7645819212	Alkermes plc
+1790550531	Allegiant Travel Company
+75300765.48	Alliance Bancorp, Inc. of Pennsylvania
+225337420.4	Alliance Fiber Optic Products, Inc.
+315116635.3	Alliance HealthCare Services, Inc.
+3657778958	Alliance Holdings GP, L.P.
+3025425970	Alliance Resource Partners, L.P.
+18703252.51	Allied Healthcare Products, Inc.
+106574519.1	Allied Motion Technologies, Inc.
+107003120.8	Alliqua, Inc.
+527048009.1	Allot Communications Ltd.
+3272883352	Allscripts Healthcare Solutions, Inc.
+269746024.2	Almost Family Inc
+5749302089	Alnylam Pharmaceuticals, Inc.
+183027090.2	Alpha and Omega Semiconductor Limited
+146342502	Alphatec Holdings, Inc.
+57718533.66	Altair Nanotechnologies Inc.
+11464289414	Altera Corporation
+2595427112	Altisource Portfolio Solutions S.A.
+535556553.6	Alto Palermo S.A.
+937677568.6	Altra Industrial Motion Corp.
+464071222	AMAG Pharmaceuticals, Inc.
+321155067.9	Amarin Corporation PLC
+1.59255E+11	Amazon.com, Inc.
+1183116356	Ambac Financial Group, Inc.
+898290553.1	Ambarella, Inc.
+67423824.07	Ambassadors Group, Inc.
+31933836.26	Ambient Corporation
+197722285.5	Ambit Biosciences Corporation
+5017048087	AMC Networks Inc.
+7125038279	Amdocs Limited
+538843569.6	Amedisys Inc
+4453909044	Amerco
+40350852	Ameriana Bancorp
+347822170	America First Multifamily Investors, L.P.
+72499839382	America Movil, S.A.B. de C.V.
+321016912.4	America&#39;s Car-Mart, Inc.
+4637992000	American Airlines Group, Inc.
+12912581490	American Airlines Group, Inc.
+8304384235	American Capital Agency Corp.
+1047461758	American Capital Mortgage Investment Corp.
+145001450	American Capital Senior Floating, Ltd.
+4451847480	American Capital, Ltd.
+12130737.08	American Caresource Holdings Inc
+72604733.24	American Electric Technologies, Inc.
+98565811.08	American Independence Corp.
+178076628.1	American National Bankshares, Inc.
+3115538578	American National Insurance Company
+371183142.3	American Pacific Corporation
+786643195.7	American Public Education, Inc.
+1333450948	American Railcar Industries, Inc.
+955460000	American Realty Capital Properties, Inc.
+2633361912	American Realty Capital Properties, Inc.
+86149406.64	American River Bankshares
+517103319.6	American Science and Engineering, Inc.
+302035259.7	American Software, Inc.
+124582172.2	American Superconductor Corporation
+508579004.1	American Woodmark Corporation
+482891281.8	Ameris Bancorp
+741647534.4	AMERISAFE, Inc.
+59545875.96	AmeriServ Financial Inc.
+203629667.3	Ames National Corporation
+93398529498	Amgen Inc.
+166693878.9	Amicus Therapeutics, Inc.
+1237341350	Amkor Technology, Inc.
+1379308367	Amsurg Corp.
+95359476.65	Amtech Systems, Inc.
+2636627969	AmTrust Financial Services, Inc.
+266948430	Amyris, Inc.
+812466586	Anacor Pharmaceuticals, Inc.
+158802283.1	ANADIGICS, Inc.
+16022203032	Analog Devices, Inc.
+1218950618	Analogic Corporation
+47226000	Anchor Bancorp
+16072059.17	Andatee China Marine Fuel Services Corporation
+819668264.3	Angie&#39;s List, Inc.
+561797469.1	AngioDynamics, Inc.
+271349805.7	ANI Pharmaceuticals, Inc.
+477534220.7	Anika Therapeutics Inc.
+7632387561	ANSYS, Inc.
+607439803	Antares Pharma, Inc.
+57333224.52	Anthera Pharmaceuticals, Inc.
+416299133.6	Apco Oil and Gas International Inc.
+157408436.2	API Technologies Corp.
+973123985.3	Apogee Enterprises, Inc.
+3866290970	Apollo Education Group, Inc.
+2011435091	Apollo Investment Corporation
+4.68517E+11	Apple Inc.
+18327792.74	Appliance Recycling Centers of America, Inc.
+23018960022	Applied Materials, Inc.
+753638817.8	Applied Micro Circuits Corporation
+261043393.7	Applied Optoelectronics, Inc.
+805801945.9	Approach Resources Inc.
+93082901.44	Apricus Biosciences, Inc
+23636415	Aquasition Corp.
+68249090	Aquasition Corp.
+538343466.9	Aratana Therapeutics, Inc.
+161871389.8	ARC Group Worldwide, Inc.
+28059255.98	ARCA biopharma, Inc.
+7459742033	Arch Capital Group Ltd.
+595133326.5	Arctic Cat Inc.
+1512532606	Arena Pharmaceuticals, Inc.
+5191803209	Ares Capital Corporation
+1185908901	Argo Group International Holdings, Ltd.
+43334240.4	ARI Network Services, Inc.
+1646770787	ARIAD Pharmaceuticals, Inc.
+70207876.2	Ark Restaurants Corp.
+839316318.7	Arkansas Best Corporation
+22463891322	ARM Holdings plc
+52885559.76	Arotech Corporation
+139923285.6	ArQule, Inc.
+604831943.5	Array BioPharma Inc.
+4111830988	ARRIS Group, Inc.
+316523062.2	Arrow Financial Corporation
+869011639.6	Arrowhead Research Corporation
+23608503.68	Art&#39;s-Way Manufacturing Co., Inc.
+196801640.9	Artesian Resources Corporation
+1377460693	ArthroCare Corporation
+2261344789	Aruba Networks, Inc.
+90716902.5	ASB Bancorp, Inc.
+3046535801	Ascena Retail Group, Inc.
+973172820	Ascent Capital Group, Inc.
+41498426.48	Ascent Solar Technologies, Inc.
+43808350.73	Asia Pacific Wire & Cable Corporation Limited
+2226991800	ASM International N.V.
+39410546493	ASML Holding N.V.
+4384728895	Aspen Technology, Inc.
+2597214443	Associated Banc-Corp
+109113350	Asta Funding, Inc.
+12412054.54	Astea International, Inc.
+838039971.9	Astec Industries, Inc.
+104728473.8	Astro-Med, Inc.
+1114050477	Astronics Corporation
+52614162.9	Astrotech Corporation
+35239905.36	Asure Software Inc
+89014500	ATA Inc.
+7253263179	athenahealth, Inc.
+41154872.25	Athens Bancshares Corporation
+304432040.4	Athersys, Inc.
+83744510.9	Atlantic American Corporation
+62656606.44	Atlantic Coast Financial Corporation
+968888091.6	Atlantic Tele-Network, Inc.
+40517466	Atlanticus Holdings Corporation
+802988832	Atlas Air Worldwide Holdings
+113639557.2	Atlas Financial Holdings, Inc.
+3368617446	Atmel Corporation
+1082611068	ATMI Inc.
+41276846.96	Atossa Genetics Inc.
+499126637.6	AtriCure, Inc.
+583127323.7	ATRION Corporation
+161855454.2	Attunity Ltd.
+92535197.2	Auburn National Bancorporation, Inc.
+256321150.2	Audience, Inc.
+321879448.6	AudioCodes Ltd.
+43570299.84	Authentidate Holding Corp.
+138189229.9	Autobytel Inc.
+12498240000	Autodesk, Inc.
+36684615251	Automatic Data Processing, Inc.
+1432683675	AutoNavi Holdings Limited
+1425869061	Auxilium Pharmaceuticals, Inc.
+14573646307	Avago Technologies Limited
+608446884	Avanir Pharmaceuticals, Inc.
+98019920.88	AVEO Pharmaceuticals, Inc.
+126657398.2	Aviat Networks, Inc.
+269362709.2	Avid Technology, Inc.
+4811650370	Avis Budget Group, Inc.
+137004719.6	Aware, Inc.
+244400962.1	Axcelis Technologies, Inc.
+75946006.98	AxoGen, Inc.
+76931744.92	AXT Inc
+455807936.3	B Communications Ltd.
+8538146.64	B.O.S. Better Online Solutions
+8657968184	B/E Aerospace, Inc.
+60371794886	Baidu, Inc.
+1501410577	Balchem Corporation
+310074529.4	Baldwin & Lyons, Inc.
+350537430	Baldwin & Lyons, Inc.
+265729512.9	Ballard Power Systems, Inc.
+237046338.6	Banc of California, Inc.
+26800100	BancFirst Corporation
+825310852	BancFirst Corporation
+294380680.6	Bank Mutual Corporation
+86500149.12	Bank of Commerce Holdings (CA)
+236599608.6	Bank of Marin Bancorp
+66974100.84	Bank of South Carolina Corp.
+30174525	Bank of the James Financial Group, Inc.
+2203570608	Bank of the Ozarks
+212918836.9	BankFinancial Corporation
+732500462.1	Banner Corporation
+505292019.6	Barrett Business Services, Inc.
+144722679.1	Bassett Furniture Industries, Incorporated
+57400992.64	Baxano Surgical, Inc.
+46634039.7	Bay Bancorp, Inc.
+97484050.42	Baylake Corp
+555160863.4	Bazaarvoice, Inc.
+1285720148	BBCN Bancorp, Inc.
+108902873.5	BCB Bancorp, Inc. (NJ)
+1848820340	Beacon Roofing Supply, Inc.
+202652252.8	Beasley Broadcast Group, Inc.
+415079327.3	bebe stores, inc.
+13838141653	Bed Bath & Beyond Inc.
+177033550.6	Bel Fuse Inc.
+220909499.8	Bel Fuse Inc.
+950219009.5	Beneficial Mutual Bancorp, Inc.
+1573759728	Benefitfocus, Inc.
+34061037.26	BG Medicine, Inc.
+1502244745	BGC Partners, Inc.
+382529107	Big 5 Sporting Goods Corporation
+228004359.5	BIND Therapeutics, Inc.
+21879050.44	Bioanalytical Systems, Inc.
+143059504.5	Biocept, Inc.
+713233113.5	BioCryst Pharmaceuticals, Inc.
+64070644.8	Biodel Inc.
+338532890.1	BioDelivery Sciences International, Inc.
+11853664.9	BioFuel Energy Corp.
+81991870132	Biogen Idec Inc.
+107334526.4	Biolase, Inc.
+66729039.09	BioLineRx Ltd.
+11593175799	BioMarin Pharmaceutical Inc.
+754971506.4	Bio-Reference Laboratories, Inc.
+578929611	BioScrip, Inc.
+148625349.6	BioSpecifics Technologies Corp
+29383748.94	Biostar Pharmaceuticals, Inc.
+179539853.6	Biota Pharmaceuticals, Inc.
+255235548.2	BioTelemetry, Inc.
+33290593.05	Birner Dental Management Services, Inc.
+733635843.8	BJ&#39;s Restaurants, Inc.
+422827455.4	Black Box Corporation
+327449544.7	Black Diamond, Inc.
+1499497919	Blackbaud, Inc.
+4809948919	BlackBerry Limited
+1205533578	Blackhawk Network Holdings, Inc.
+709796844.9	BlackRock Kelso Capital Corporation
+32591000	BLDRS Asia 50 ADR Index Fund
+55352220	BLDRS Developed Markets 100 ADR Index Fund
+206972000	BLDRS Emerging Markets 50 ADR Index Fund
+18802500	BLDRS Europe 100 ADR Index Fund
+2834458510	Bloomin&#39; Brands, Inc.
+815674701.6	Blucora, Inc.
+446847768.9	Blue Nile, Inc.
+559667265.9	bluebird bio, Inc.
+204995358	Blueknight Energy Partners L.P., L.L.C.
+292551592.6	Blueknight Energy Partners L.P., L.L.C.
+48447567	BluePhoenix Solutions, Ltd.
+365906935.7	BNC Bancorp
+1314308352	Bob Evans Farms, Inc.
+52724064.49	Body Central Corp.
+1196628100	BofI Holding, Inc.
+211340483.6	Boingo Wireless, Inc.
+4304039131	BOK Financial Corporation
+181470471.3	Bolt Technology Corporation
+410207863.7	Bona Film Group Limited
+9707295.24	Bonso Electronics International, Inc.
+35315481.1	Books-A-Million, Inc.
+949898055.4	Boston Private Financial Holdings, Inc.
+1366814552	Bottomline Technologies, Inc.
+829021384.8	Boulder Brands, Inc.
+281676594.1	Bravo Brio Restaurant Group, Inc.
+2101251449	BreitBurn Energy Partners, L.P.
+297270188.6	Bridge Bancorp, Inc.
+365715357.6	Bridge Capital Holdings
+21446167	Bridgeline Digital, Inc.
+87560085.27	Bridgford Foods Corporation
+269588926.9	Brightcove Inc.
+17871560000	Broadcom Corporation
+863290105.2	BroadSoft, Inc.
+64263561.54	BroadVision, Inc.
+6698541.59	Broadway Financial Corporation
+125456438.8	Broadwind Energy, Inc.
+4230901004	Brocade Communications Systems, Inc.
+616711234.5	Brookline Bancorp, Inc.
+685893100.6	Brooks Automation, Inc.
+3739726401	Bruker Corporation
+385583082.1	Bryn Mawr Bank Corporation
+153677061.8	BSB Bancorp, Inc.
+41797701.33	BSD Medical Corporation
+38868186.8	BSQUARE Corporation
+29016386.56	BTU International, Inc.
+2484028484	Buffalo Wild Wings, Inc.
+851048261.8	Builders FirstSource, Inc.
+98982126.62	Burcon Nutrascience Corp
+119429478.7	C&F Financial Corporation
+8206489285	C.H. Robinson Worldwide, Inc.
+14516640213	CA Inc.
+1038340468	Cabot Microelectronics Corporation
+106247273	Cache, Inc.
+4356435364	Cadence Design Systems, Inc.
+1203499042	Cadence Pharmaceuticals, Inc.
+127106037	Cadiz, Inc.
+1938822475	Caesars Acquisition Company
+3216718493	Caesars Entertainment Corporation
+1861131860	CaesarStone Sdot-Yam Ltd.
+94261230.27	CafePress Inc.
+234870876.2	Calamos Asset Management, Inc.
+984825428	Calamos Convertible and High Income Fund
+939586184	Calamos Convertible Opportunities and Income Fund
+534013277.6	Calamos Global Dynamic Income Fund
+124294663.7	Calamos Global Total Return Fund
+1698108860	Calamos Strategic Total Return Fund
+1108959033	CalAmp Corp.
+482777783.4	Calavo Growers, Inc.
+155454737.8	California First National Bancorp
+497863464.9	Callidus Software, Inc.
+1264485528	Cal-Maine Foods, Inc.
+1881964098	Calumet Specialty Products Partners, L.P.
+86931833.93	Cambium Learning Group, Inc.
+88471100	CAMBRIDGE CAPITAL ACQUISITION CORPORATION
+92555996.4	Camco Financial Corporation
+274678946.9	Camden National Corporation
+129798180	Camtek Ltd.
+1741260038	Canadian Solar Inc.
+185307680	Cancer Genetics, Inc.
+41978367.6	Canterbury Park Holding Corporation
+126019831.1	Cape Bancorp, Inc.
+814210902	Capella Education Company
+1170488818	Capital Bank Financial Corp.
+224203885.5	Capital City Bank Group
+871268737.7	Capital Product Partners L.P.
+541842260.6	Capital Southwest Corporation
+257801725.4	Capitala Finance Corp.
+242500000	Capitol Acquisition Corp. II
+255250000	Capitol Acquisition Corp. II
+1776183737	Capitol Federal Financial, Inc.
+548563244.5	Capstone Turbine Corporation
+271873196.5	Carbonite, Inc.
+59412902.04	Cardica, Inc.
+507864457.6	Cardinal Financial Corporation
+134474910.2	Cardiome Pharma Corporation
+1048117696	Cardiovascular Systems, Inc.
+1781282543	Cardtronics, Inc.
+429783020.8	Career Education Corporation
+670776723.1	Carmike Cinemas, Inc.
+36139299.04	Carolina Bank Holdings Inc.
+15479169.88	Carolina Trust Bank
+2043054572	Carrizo Oil & Gas, Inc.
+149281385.4	Carrols Restaurant Group, Inc.
+55364462.16	Carver Bancorp, Inc.
+42041684.93	CAS Medical Systems, Inc.
+226996954.2	Cascade Bancorp
+144752482.6	Cascade Microtech, Inc.
+217596121.3	Casella Waste Systems, Inc.
+2569717372	Caseys General Stores, Inc.
+611385647.4	Cass Information Systems, Inc
+123423096.4	Catalyst Pharmaceutical Partners, Inc.
+10546270142	Catamaran Corporation
+1916828180	Cathay General Bancorp
+664288431.8	Cavco Industries, Inc.
+2091822527	Cavium, Inc.
+211810488.6	Cbeyond, Inc.
+4723485162	CBOE Holdings, Inc.
+4238750378	CDW Corporation
+398536010.5	CECO Environmental Corp.
+90573239.64	Celator Pharmaceuticals Inc.
+66330830473	Celgene Corporation
+497638273.1	Cell Therapeutics, Inc.
+129514509.3	Celladon Corporation
+2559775865	Celldex Therapeutics, Inc.
+235891466.6	Cellular Dynamics International, Inc.
+62295055.98	Celsion Corporation
+9492558	Celsus Therapeutics Plc
+436584484.2	Cempra, Inc.
+287112470.5	Center Bancorp, Inc.
+325515854.8	CenterState Banks, Inc.
+379275364.2	Central European Media Enterprises Ltd.
+22784560.03	Central Federal Corporation
+260360510.8	Central Garden & Pet Company
+368158718.4	Central Garden & Pet Company
+127265168.8	Central Valley Community Bancorp
+1015419560	Century Aluminum Company
+197369863.7	Century Bancorp, Inc.
+165037442	Century Casinos, Inc.
+3640679279	CEPHEID
+111677219	Ceragon Networks Ltd.
+36042580.86	Ceres, Inc.
+21309762198	Cerner Corporation
+529124560	Cerus Corporation
+40026981.6	Cesca Therapeutics Inc.
+391095271.1	CEVA, Inc.
+1526994465	Changyou.com Limited
+19841110.03	Chanticleer Holdings, Inc.
+84890317.58	Charles & Colvard Ltd
+153339144	Charm Communications Inc.
+96330000	Chart Acquisition Corp.
+2722023648	Chart Industries, Inc.
+13024937879	Charter Communications, Inc.
+245386590	Charter Financial Corp.
+13239804800	Check Point Software Technologies Ltd.
+473740852.6	Chelsea Therapeutics International, Ltd.
+30678536.07	Chembio Diagnostics, Inc.
+862973685	Chemical Financial Corporation
+315489402.9	ChemoCentryx, Inc.
+131259579.6	Chemung Financial Corp
+114203565	Cherokee Inc.
+72017201.44	Cheviot Financial Corp
+95672785.1	Chicopee Bancorp, Inc.
+523123781.4	Chimerix, Inc.
+8921226	China Advanced Construction Materials Group, Inc.
+14038697.2	China Auto Logistics Inc.
+213968235	China Automotive Systems, Inc.
+27005937.58	China BAK Battery, Inc.
+946983261.2	China Biologic Products, Inc.
+44334918.46	China Ceramics Co., Ltd.
+69676788.76	China Commercial Credit, Inc.
+166876891.5	China Finance Online Co. Limited
+63094284.6	China Gerui Advanced Materials Group Limited
+195517000	China HGS Real Estate, Inc.
+80660709	China Housing & Land Development, Inc.
+151242604.8	China Information Technology, Inc.
+20240552.9	China Jo-Jo Drugstores, Inc.
+1699233939	China Lodging Group, Limited
+914295155.4	China Mobile Games and Entertainment Group Limited
+638964995.4	China Natural Resources, Inc.
+6209385.6	China Precision Steel, Inc.
+183932486.9	China Recycling Energy Corporation
+37627086.67	China Shengda Packaging Group, Inc.
+84492465.79	China Sunergy Co., Ltd.
+115924465.7	China TechFaith Wireless Communication Technology Limited
+224983228.4	China XD Plastics Company Limited
+18515963.4	China Yida Holding, Co.
+596082599.5	ChinaCache International Holdings Ltd.
+121994431.1	ChinaEdu Corporation
+24614194	ChinaNet Online Holdings, Inc.
+347324958.8	Chindex International, Inc.
+753866332.8	ChipMOS TECHNOLOGIES (Bermuda) LTD.
+207204191.7	CHS Inc
+309919011.5	CHS Inc
+1675639805	Churchill Downs, Incorporated
+647042903.5	Chuy&#39;s Holdings, Inc.
+84901557.84	ChyronHego Corporation
+166208224	CIFC Corp.
+91492693.6	Cimatron, Limited
+7659086020	Cincinnati Financial Corporation
+181631084.5	Cinedigm Corp
+7389952911	Cintas Corporation
+1128585807	Cirrus Logic, Inc.
+52387200	CIS Acquisition Ltd.
+53932320	CIS Acquisition Ltd.
+1.18321E+11	Cisco Systems, Inc.
+249829685.5	Citi Trends, Inc.
+243978462.8	Citizens & Northern Corp
+42517010.25	Citizens Community Bancorp, Inc.
+19313702.37	Citizens First Corporation
+90097109	Citizens Holding Company
+11146545444	Citrix Systems, Inc.
+680798295.2	City Holding Company
+23504170.58	Clean Diesel Technologies, Inc.
+862308531.1	Clean Energy Fuels Corp.
+19549541.16	Cleantech Solutions International, Inc.
+339146101.6	Clearfield, Inc.
+84444025.8	ClearOne, Inc.
+79472279.48	ClearSign Combustion Corporation
+30949748.09	Cleveland BioLabs, Inc.
+297556454.8	ClickSoftware Technologies Ltd.
+342820298.4	Clifton Savings Bancorp, Inc.
+2545058860	Clovis Oncology, Inc.
+24719060760	CME Group Inc.
+17510348.2	CMS Bancorp, Inc.
+259704807.9	CNB Financial Corporation
+284675533.2	CNinsure Inc.
+297054055.2	Coastal Contacts Inc                    
+50872610.94	Coastway Bancorp, Inc.
+448945545.5	CoBiz Financial Inc.
+22780281	Cobra Electronics Corporation
+690543031.9	Coca-Cola Bottling Co. Consolidated
+73162621.44	Codexis, Inc.
+98838962.06	Codorus Valley Bancorp, Inc
+39890654.34	Coffee Holding Co., Inc.
+1905249392	Cogent Communications Group, Inc.
+3291350860	Cognex Corporation
+31075526158	Cognizant Technology Solutions Corporation
+1662733772	Coherent, Inc.
+233457896.9	Cohu, Inc.
+22053277.44	Coldwater Creek, Inc.
+57680000	COLLABRIUM JAPAN ACQUISITION CORPORATION
+59472000	COLLABRIUM JAPAN ACQUISITION CORPORATION
+6713323.2	CollabRx, Inc.
+163287766.2	Collectors Universe, Inc.
+45466084.4	Colonial Financial Services, Inc.
+52829755.08	Colony Bankcorp, Inc.
+1290969913	Columbia Banking System, Inc.
+83466337.75	Columbia Laboratories, Inc.
+2847576762	Columbia Sportswear Company
+490368650.8	Columbus McKinnon Corporation
+27638346.4	CombiMatrix Corporation
+23697980881	Comcast Corporation
+1.33518E+11	Comcast Corporation
+4137279792	Commerce Bancshares, Inc.
+250838321	Commercial Vehicle Group, Inc.
+4070629400	CommScope Holding Company, Inc.
+107578398.4	Communications Systems, Inc.
+74859122.65	Community Bank Shares of Indiana, Inc.
+87021535.31	Community Bankers Trust Corporation.
+608744310.1	Community Trust Bancorp, Inc.
+56326166.28	Community West Bancshares
+238049123.7	CommunityOne Bancorp
+3273377799	CommVault Systems, Inc.
+342171786	Compressco Partners, L.P.
+457869446.4	Compugen Ltd.
+792299082	Computer Programs and Systems, Inc.
+297315277.7	Computer Task Group, Incorporated
+2293650241	Compuware Corporation
+1159258718	comScore, Inc.
+36731933.85	Comstock Holding Companies, Inc.
+506223905	Comtech Telecommunications Corp.
+766999756.5	Comverse Inc.
+171037675.1	Conatus Pharmaceuticals Inc.
+7121347441	Concur Technologies, Inc.
+80303603.46	Concurrent Computer Corporation
+1319130143	CONMED Corporation
+1193589292	Conn&#39;s, Inc.
+374948018.8	Connecticut Water Service, Inc.
+226325262.2	ConnectOne Bancorp, Inc.
+769338915.2	Consolidated Communications Holdings, Inc.
+188066812.3	Consolidated Water Co. Ltd.
+858517324	Constant Contact, Inc.
+174850978.5	Consumer Portfolio Services, Inc.
+442242493.8	Control4 Corporation
+4354292553	Copart, Inc.
+336374022.5	Corcept Therapeutics Incorporated
+11158724.04	Cordia Bancorp Inc.
+898480270.5	Core-Mark Holding Company, Inc.
+133177662.7	Corinthian Colleges, Inc.
+3100571089	Cornerstone OnDemand, Inc.
+96152084.1	Coronado Biosciences, Inc.
+432226780	Corporate Resource Services, Inc.
+963641824.5	CorVel Corp.
+23886861.24	Cosi, Inc.
+5692874417	CoStar Group, Inc.
+49772179022	Costco Wholesale Corporation
+45655814.16	CounterPath Corporation
+183193334.5	Courier Corporation
+150578276.4	Covenant Transportation Group, Inc.
+378654050	Covisint Corporation
+463146703.6	Cowen Group, Inc.
+228096720.7	CRA International,Inc.
+2336140771	Cracker Barrel Old Country Store, Inc.
+303406640.8	Craft Brew Alliance, Inc.
+1395560426	Cray Inc
+3058959712	Credit Acceptance Corporation
+2632500	Credit Suisse AG
+8365975.1	Credit Suisse AG
+9755465.28	Credit Suisse AG
+14237075	Credit Suisse AG
+16686512.74	Credit Suisse AG
+20455050.88	Credit Suisse AG
+36183600	Credit Suisse AG
+98431488.19	Credit Suisse AG
+122398817.3	Credit Suisse AG
+198688155.4	Credit Suisse AG
+494427451.2	Credit Suisse AG
+7334304672	Cree, Inc.
+446390829.7	Cresud S.A.C.I.F. y A.
+2490078757	Criteo S.A.
+1369870279	Crocs, Inc.
+322665299.8	Cross Country Healthcare, Inc.
+31267660.5	Crossroads Systems, Inc.
+1967442371	Crosstex Energy, Inc.
+2706782188	Crosstex Energy, L.P.
+85411042.62	Crown Crafts, Inc.
+1215704664	Crown Media Holdings, Inc.
+8428278.388	Crumbs Bake Shop, Inc.
+900883889.4	CSG Systems International, Inc.
+27696570.25	CSP Inc.
+1898226414	CSR plc
+1757974018	CTC Media, Inc.
+18842146.8	CTI Industries Corporation
+6377745454	Ctrip.com International, Ltd.
+199081608.2	CU Bancorp (CA)
+5819532123	Cubist Pharmaceuticals, Inc.
+177468726.7	CUI Global, Inc.
+86545485	Cumberland Pharmaceuticals Inc.
+1395257667	Cumulus Media Inc.
+283991482.6	Curis, Inc.
+479555984.7	Customers Bancorp, Inc
+153078946.2	Cutera, Inc.
+1569122943	CVB Financial Corporation
+99471683.25	CVD Equipment Corporation
+30169634	Cyanotech Corporation
+1868386260	Cyberonics, Inc.
+50482208.7	CyberOptics Corporation
+3143839.14	Cyclacel Pharmaceuticals, Inc.
+71215445.58	Cyclacel Pharmaceuticals, Inc.
+681013430.3	Cynosure, Inc.
+1517058598	Cypress Semiconductor Corporation
+481174479.5	CyrusOne Inc
+295405520.4	Cytokinetics, Incorporated
+245381719.2	Cytori Therapeutics Inc
+236321569.6	CytRx Corporation
+17859043.96	Daegis Inc
+220933167.5	Daily Journal Corp. (S.C.)
+611840579.3	Daktronics, Inc.
+78673579	DARA Biosciences, Inc.
+21635884.08	Data I/O Corporation
+309921346.1	Datalink Corporation
+5766773.88	Dataram Corporation
+276695539.1	Datawatch Corporation
+237703371.8	Dawson Geophysical Company
+2402438150	Dealertrack Technologies, Inc.
+2887271213	Deckers Outdoor Corporation
+47077800	Dehaier Medical Systems Limited
+558917225.5	Del Frisco&#39;s Restaurant Group, Inc.
+43555560.99	Delcath Systems, Inc.
+52567725.6	dELIA*s Inc.
+138423340	Delta Natural Gas Company, Inc.
+467737349.3	Dendreon Corporation
+579151232.2	Denny&#39;s Corporation
+6419350620	DENTSPLY International Inc.
+729997846.4	Depomed, Inc.
+378178915.1	Derma Sciences, Inc.
+370570286.5	Destination Maternity Corporation
+277570625.5	Destination XL Group, Inc.
+37807209.52	Deswell Industries, Inc.
+130593113	Dex Media, Inc.
+3094595523	DexCom, Inc.
+290416999	DFC Global Corp
+619863892.3	Diamond Foods, Inc.
+377181776.5	Diamond Hill Investment Group, Inc.
+3011824753	Diamondback Energy, Inc.
+142729272	Diana Containerships Inc.
+656792570	Dicerna Pharmaceuticals, Inc.
+254370615.1	Digi International Inc.
+218897318.6	Digimarc Corporation
+70744561.92	Digirad Corporation
+18763478.5	Digital Ally, Inc.
+44611860.51	Digital Cinema Destinations Corp.
+604460070.1	Digital River, Inc.
+589601883.3	Dime Community Bancshares, Inc.
+1093700977	Diodes Incorporated
+39418660490	DIRECTV
+538493455.6	Discovery Communications, Inc.
+6902209553	Discovery Communications, Inc.
+19671487262	Discovery Communications, Inc.
+215827458.5	Discovery Laboratories, Inc.
+26529936977	DISH Network Corporation
+32842632.6	Diversicare Healthcare Services Inc.
+120897868	Diversified Restaurant Holdings, Inc.
+24198987.96	DLH Holdings Corp.
+53481340.02	DNB Financial Corp
+10814644972	Dollar Tree, Inc.
+381796598	Donegal Group, Inc.
+589968898.7	Donegal Group, Inc.
+768419546.6	Dorchester Minerals, L.P.
+2053168915	Dorman Products, Inc.
+309156311	Dot Hill Systems Corporation
+25427162.88	Double Eagle Petroleum Company
+38076500	Double Eagle Petroleum Company
+29498378.31	Dover Saddlery, Inc.
+80608321.02	DragonWave Inc
+2782781039	Dreamworks Animation SKG, Inc.
+1490915476	DryShips Inc.
+31529466.54	DS Healthcare Group, Inc.
+194031419.8	DSP Group, Inc.
+366524191.5	DTS, Inc.
+5335785061	Dunkin&#39; Brands Group, Inc.
+372842344	Durata Therapeutics, Inc.
+167793561.5	Durect Corporation
+1399283827	DXP Enterprises, Inc.
+1225025160	Dyax Corp.
+645853500	Dynagas LNG Partners LP
+314416160	Dynamic Materials Corporation
+18852248.36	Dynasil Corporation of America
+9264025.131	Dynatronics Corporation
+498987709	Dynavax Technologies Corporation
+6424619618	E*TRADE Financial Corporation
+832916250	E2open, Inc.
+42612627.05	Eagle Bancorp Montana, Inc.
+857901304.8	Eagle Bancorp, Inc.
+63801737.11	Eagle Bulk Shipping Inc.
+820298063.8	Eagle Rock Energy Partners, L.P.
+408812851.4	EarthLink Holdings Corp.
+4721654869	East West Bancorp, Inc.
+98740235.79	Eastern Company (The)
+79814477.25	Eastern Virginia Bankshares, Inc.
+70675214594	eBay Inc.
+617193612.7	Ebix, Inc.
+123948499	Echelon Corporation
+391689381.8	Echo Global Logistics, Inc.
+33351073.54	Echo Therapeutics, Inc.
+4202136586	EchoStar Corporation
+51653755.16	Ecology and Environment, Inc.
+76045948.3	EDAP TMS S.A.
+67131697.8	Edgewater Technology, Inc.
+746672431.2	Education Management Corporation
+14983118.54	Educational Development Corporation
+21056323	eFuture Information Technology Inc.
+228835505.9	eGain Corporation
+915239205.1	eHealth, Inc.
+277310398.1	Einstein Noah Restaurant Group, Inc.
+3986939.721	Elbit Imaging Ltd.
+2479340471	Elbit Systems Ltd.
+48614981.36	Elecsys Corporation
+415315875.4	Electro Rent Corporation
+277368463.7	Electro Scientific Industries, Inc.
+8655430896	Electronic Arts Inc.
+1981382715	Electronics for Imaging, Inc.
+13748563.35	Electro-Sensors, Inc.
+847592903.5	Elizabeth Arden, Inc.
+60063432	Elmira Savings Bank NY (The)
+582417061.2	eLong, Inc.
+23633649.74	Eltek Ltd.
+401373997.2	EMC Insurance Group, Inc.
+44607897.4	Emclaire Financial Corp
+148588560.8	EMCORE Corporation
+20630360.5	Emmis Communications Corporation
+147145007.1	Emmis Communications Corporation
+268601750.1	Empire Resorts, Inc.
+37743886.56	Empire Resources, Inc.
+717738863.6	Enanta Pharmaceuticals, Inc.
+1251007910	Encore Capital Group Inc
+1071369728	Encore Wire Corporation
+9060001906	Endo Health Solutions Inc.
+539985294.4	Endocyte, Inc.
+1119514205	Endologix, Inc.
+1716560432	Endurance International Group Holdings, Inc.
+233082247.7	Energy Recovery, Inc.
+1803448601	Energy XXI (Bermuda) Limited
+677097787.5	EnerNOC, Inc.
+42790920.38	ENGlobal Corporation
+309847631.2	Enphase Energy, Inc.
+2095039674	Enstar Group Limited
+1653553021	Entegris, Inc.
+147793323.4	EnteroMedics Inc.
+183975442.8	Enterprise Bancorp Inc
+351793661.3	Enterprise Financial Services Corporation
+31528897.57	Entertainment Gaming Asia Incorporated
+49754389.36	EntreMed, Inc.
+387849993.5	Entropic Communications, Inc.
+98711059.72	Envivio, Inc.
+42332008.02	Enzon Pharmaceuticals, Inc.
+578799768.8	Enzymotec Ltd.
+16308697.32	eOn Communications Corporation
+490138052.4	EPIQ Systems, Inc.
+856828021.3	Epizyme, Inc.
+461933321.2	ePlus inc.
+9429207669	Equinix, Inc.
+285961336.4	Erickson Air-Crane Incorporated
+41742150000	Ericsson
+3273140728	Erie Indemnity Company
+227185918.3	ESB Financial Corporation
+163003214.9	Escalade, Incorporated
+11665966.5	Escalon Medical Corp.
+231129065.7	Esperion Therapeutics, Inc.
+128146908.6	ESSA Bancorp, Inc.
+81406157.77	Essex Rental Corporation
+11836994.18	Euro Tech Holdings Company Limited
+1822727361	Euronet Worldwide, Inc.
+60074526.6	Euroseas Ltd.
+1698503180	EV Energy Partners, L.P.
+169308464.6	EveryWare Global, Inc.
+67064272	Evoke Pharma, Inc.
+102286988	Evolving Systems, Inc.
+208897749.4	Exa Corporation
+1003482922	EXACT Sciences Corporation
+311754240	Exactech, Inc.
+58363821.49	Exceed Company Ltd.
+1363242750	Exelixis, Inc.
+127015422	EXFO Inc
+902207865.2	ExlService Holdings, Inc.
+10426928231	Expedia, Inc.
+8548030329	Expeditors International of Washington, Inc.
+945396818	Exponent, Inc.
+59637702060	Express Scripts Holding Company
+1446215509	Exterran Partners, L.P.
+567777321	Extreme Networks, Inc.
+721465072.6	EZchip Semiconductor Limited
+681652108	EZCORP, Inc.
+8385713697	F5 Networks, Inc.
+1.74887E+11	Facebook, Inc.
+1661256988	Fairchild Semiconductor International, Inc.
+358776561.3	FairPoint Communications, Inc.
+318296367.1	Fairway Group Holdings Corp.
+76370461.83	FalconStor Software, Inc.
+190367562.5	Famous Dave&#39;s of America, Inc.
+346525704.7	Farmer Brothers Company
+140564422.8	Farmers Capital Bank Corporation
+138285092.7	Farmers National Banc Corp.
+973836785.8	FARO Technologies, Inc.
+13534405767	Fastenal Company
+122142948	Fate Therapeutics, Inc.
+58113802.3	Fauquier Bankshares, Inc.
+289340653.2	FBR & Co
+2630012647	Federal-Mogul Corporation
+143646029	Federated National Holding Company
+48369860	FedFirst Financial Corporation
+4263327725	FEI Company
+198930463.8	Female Health Company (The)
+336350000	Fidelity Nasdaq Composite Index Tracking Stock
+296248073	Fidelity Southern Corporation
+291167923.2	Fidus Investment Corporation
+1219726413	Fiesta Restaurant Group, Inc.
+1351465580	Fifth Street Finance Corp.
+93801425.76	Fifth Street Senior Floating Rate Corp.
+468000000	Fifth Third Bancorp
+18927994149	Fifth Third Bancorp
+2790131674	Financial Engines, Inc.
+299536514.1	Financial Institutions, Inc.
+2358901335	Finisar Corporation
+8781389257	FireEye, Inc.
+339867710.9	First Bancorp
+174329678.9	First Bancorp, Inc (ME)
+50082227.75	First Bank
+501496671.4	First Busey Corporation
+167053414.1	First Business Financial Services, Inc.
+58543988.62	First Capital Bancorp, Inc. (VA)
+57052663.35	First Capital, Inc.
+1470948733	First Cash Financial Services, Inc.
+68137986.28	First Citizens Banc Corp.
+2128190696	First Citizens BancShares, Inc.
+64046566.62	First Clover Leaf Financial Corp.
+300723434.3	First Community Bancshares, Inc.
+58521781.44	First Community Corporation
+255728446.7	First Connecticut Bancorp, Inc.
+266144846.4	First Defiance Financial Corp.
+173960194	First Federal Bancshares of Arkansas, Inc.
+14449085.49	First Federal of Northern Michigan Bancorp, Inc.
+937436560.5	First Financial Bancorp.
+1863019054	First Financial Bankshares, Inc.
+445668108	First Financial Corporation Indiana
+1455906802	First Financial Holdings, Inc.
+171756688.8	First Financial Northwest, Inc.
+21879589.7	First Financial Service Corporation
+94655928.95	First Internet Bancorp
+1105335347	First Interstate BancSystem, Inc.
+589485687.7	First Merchants Corporation
+1218413967	First Midwest Bancorp, Inc.
+587527242.1	First NBC Bank Holding Company
+3083073073	First Niagara Financial Group Inc.
+51852030.6	First Savings Financial Group, Inc.
+128543019.9	First Security Group, Inc.
+5561684793	First Solar, Inc.
+82974286.32	First South Bancorp Inc
+17505046.68	First Trust BICK Index Fund
+65110956.78	First Trust Capital Strength ETF
+296217350	First Trust Exchange-Traded Fund VI First Trust NASDAQ Technol
+539676042.1	First Trust Exchange-Traded Fund VI Multi-Asset Diversified In
+5164273.787	First Trust Global Tactical Commodity Strategy Fund
+1962339.246	First Trust High Income ETF
+111929104.1	First Trust High Yield Long/Short ETF
+5084115.673	First Trust International Multi-Asset Diversified Income Index
+196836055.8	First Trust ISE Cloud Computing Index Fund
+32368046.24	First Trust ISE Global Copper Index Fund
+10582524.9	First Trust ISE Global Platinum Index Fund
+1964039.28	First Trust Low Beta Income ETF
+60227368.83	First Trust NASDAQ ABA Community Bank Index Fund
+10239068.26	First Trust NASDAQ CEA Smartphone Index Fund
+13481307.04	First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index 
+133960039.4	First Trust NASDAQ Clean Edge U.S. Liquid Series Index Fund
+59221278.96	First Trust NASDAQ Global Auto Index Fund
+1979039.58	First Trust NASDAQ Rising Dividend Achievers ETF
+315873176.1	First Trust NASDAQ-100 Equal Weighted Index Fund
+97848072.48	First Trust NASDAQ-100 Ex-Technology Sector Index Fund
+204255175	First Trust NASDAQ-100-Technology Sector Index Fund
+151432599.3	First Trust Senior Loan Fund ETF
+46393084.89	First United Corporation
+148367527.8	Firstbank Corporation
+217638047.7	Firsthand Technology Value Fund, Inc.
+3301031480	FirstMerit Corporation
+1513153308	FirstService Corporation
+14797920500	Fiserv, Inc.
+1897822849	Five Below, Inc.
+284152805.4	Five Prime Therapeutics, Inc.
+258983118	Flamel Technologies S.A.
+259931058.9	Flexsteel Industries, Inc.
+5530098390	Flextronics International Ltd.
+4644867319	FLIR Systems, Inc.
+1184625029	Fluidigm Corporation
+603162497.2	Flushing Financial Corporation
+135525960.8	Fonar Corporation
+20342243.61	Food Technology Service, Inc.
+80518560	Forbes Energy Services Ltd
+96280802.47	ForceField Energy Inc.
+367778533.5	FormFactor, Inc.
+350119881.8	Formula Systems (1985) Ltd.
+704984570	Forrester Research, Inc.
+3695834625	Fortinet, Inc.
+1353822009	Forward Air Corporation
+13013636.82	Forward Industries, Inc.
+6605781120	Fossil Group, Inc.
+3152523222	Foster Wheeler AG.
+893105611	Foundation Medicine, Inc.
+206634129	Fox Chase Bancorp, Inc.
+605042669.4	Fox Factory Holding Corp.
+754954867.3	Francesca&#39;s Holdings Corporation
+2015919269	Franklin Electric Co., Inc.
+240391329.5	Franklin Financial Corporation
+629909958.7	Fred&#39;s, Inc.
+32066372.65	FreeSeas Inc.
+276880275	Freightcar America, Inc.
+100154139.6	Frequency Electronics, Inc.
+4631900798	Frontier Communications Corporation
+54434100	FS Bancorp, Inc.
+577030933.4	FTD Companies, Inc.
+259029267.7	Fuel Systems Solutions, Inc.
+134286738	Fuel Tech, Inc.
+387542190	FuelCell Energy, Inc.
+74274203.7	Full Circle Capital Corporation
+47814236.55	Full House Resorts, Inc.
+2327682750	Fulton Financial Corporation
+985426708	Furiex Pharmaceuticals, Inc.
+15283125	Fuwei Films (Holdings) Co., Ltd.
+191205526.7	FX Energy, Inc.
+1240576461	G&K Services, Inc.
+105610354.3	G. Willi-Food International,  Ltd.
+149733663.8	Gaiam, Inc.
+273763921.6	Galectin Therapeutics Inc.
+411474777.6	Galena Biopharma, Inc.
+3403261514	Gaming and Leisure Properties, Inc.
+69503305.32	Gaming Partners International Corporation
+10145676478	Garmin Ltd.
+243002295.5	Garrison Capital Inc.
+96055795.84	Geeknet, Inc.
+104791748.7	Gencor Industries Inc.
+410679150	General Communication, Inc.
+165247720.8	General Finance Corporation
+27266611.68	Genetic Technologies Ltd
+533470505.5	GenMark Diagnostics, Inc.
+876962101.3	Genomic Health, Inc.
+4560468579	Gentex Corporation
+948412816.5	Gentherm Inc
+873449397.6	Gentium SpA
+385503912.7	Gentiva Health Services, Inc.
+47600431.8	GenVec, Inc.
+35018304	GeoMet, Inc.
+27926734.64	Georgetown Bancorp, Inc.
+940775072.4	Geospace Technologies Corporation
+363607023.6	German American Bancorp, Inc.
+629360965.7	Geron Corporation
+79487255.87	Gevo, Inc.
+572204382.4	Gibraltar Industries, Inc.
+66950368.32	GigaMedia Limited
+7409183.21	Giga-tronics Incorporated
+1327212354	G-III Apparel Group, LTD.
+213338415.8	Gilat Satellite Networks Ltd.
+1.26639E+11	Gilead Sciences, Inc.
+988922738.4	Given Imaging Ltd.
+1930884677	Glacier Bancorp, Inc.
+211051608	Gladstone Capital Corporation
+25950000	Gladstone Commercial Corporation
+28750000	Gladstone Commercial Corporation
+272848200	Gladstone Commercial Corporation
+213660981.1	Gladstone Investment Corporation
+82542536.96	Gladstone Land Corporation
+68906925.92	Gleacher & Company, Inc.
+33215703.3	Glen Burnie Bancorp
+97113475.25	Global Defense & National Security Systems, Inc.
+1133254393	Global Eagle Entertainment Inc.
+650496247.5	Global Indemnity plc
+301213556.2	Global Power Equipment Group Inc
+236538980.9	Global Sources Ltd.
+17182500	Global X NASDAQ China Technology ETF
+137655000	Global X Social Media Index ETF
+18886019.67	Global-Tech Advanced Innovations Inc.
+1425637552	Globe Specialty Metals Inc.
+34840273.49	Globus Maritime Limited
+366397223.2	Glu Mobile Inc.
+183454943.7	GlycoMimetics, Inc.
+1684469921	Gogo Inc.
+2709247187	Golar LNG Limited
+1823126510	Golar LNG Partners LP
+48221117.52	Golden Enterprises, Inc.
+826218696.2	Golub Capital BDC, Inc.
+13941185.62	Good Times Restaurants Inc.
+4.02171E+11	Google Inc.
+119241526.2	Gordmans Stores, Inc.
+2077945327	Grand Canyon Education, Inc.
+29185380	GRAVITY Co., Ltd.
+470441589.3	Great Lakes Dredge & Dock Corporation
+379664509.6	Great Southern Bancorp, Inc.
+18312217302	Green Mountain Coffee Roasters, Inc.
+784180929	Green Plains Renewable Energy, Inc.
+108233842	Greene County Bancorp, Inc.
+1187570261	Greenlight Reinsurance, Ltd.
+155471716.9	Griffin Land & Nurseries, Inc.
+12948272314	Grifols, S.A.
+5365002179	Groupon, Inc.
+1249768047	Grupo Aeroportuario del Centro Norte S.A.B. de C.V.
+1190509313	Grupo Financiero Galicia S.A.
+414312231.8	GSI Group, Inc.
+187147361.3	GSI Technology, Inc.
+245558471	GSV Capital Corp
+1609515880	GT Advanced Technologies, Inc.
+111206284.6	GTx, Inc.
+26914671.65	Guanwei Recycling Corp.
+302884708.1	Guaranty Bancorp
+30138713.93	Guaranty Federal Bancshares, Inc.
+313208180	Guidance Software, Inc.
+296516199.4	Gulf Island Fabrication, Inc.
+89787674.34	Gulf Resources, Inc.
+5293953824	Gulfport Energy Corporation
+834353071.8	GW Pharmaceuticals Plc
+9859822	Gyrodyne Company of America, Inc.
+1089919308	H&E Equipment Services, Inc.
+234381420	Hallador Energy Company
+163932019.1	Hallmark Financial Services, Inc.
+1784547527	Halozyme Therapeutics, Inc.
+51804970	Hamilton Bancorp, Inc.
+90551033.44	Hampden Bancorp, Inc.
+267313324.5	Hampton Roads Bankshares Inc
+2765426607	Hancock Holding Company
+249247038.6	Handy & Harman Ltd.
+708490080.7	Hanmi Financial Corporation
+228508181	Hansen Medical, Inc.
+247846931.1	Hanwha SolarOne Co., Ltd.
+172577677.8	Hardinge, Inc.
+658280889.4	Harmonic Inc.
+95035730.8	Harris & Harris Group, Inc.
+32430708.94	Harvard Apparatus Regenerative Technology, Inc.
+135204057.8	Harvard Bioscience, Inc.
+95779189.4	Harvest Capital Credit Corporation
+7045674020	Hasbro, Inc.
+15659598.59	Hastings Entertainment, Inc.
+590926093.2	Hawaiian Holdings, Inc.
+291677774.6	Hawaiian Telcom Holdco, Inc.
+375330590.4	Hawkins, Inc.
+63965350.09	Hawthorn Bancshares, Inc.
+613327533.5	Haynes International, Inc.
+4231531829	HD Supply Holdings, Inc.
+162387539.1	Health Insurance Innovations, Inc.
+1856114950	Healthcare Services Group, Inc.
+747648483.1	HealthStream, Inc.
+505916940	Healthways, Inc.
+1770763809	Heartland Express, Inc.
+481385670.5	Heartland Financial USA, Inc.
+1645709539	Heartware International, Inc.
+51372942.12	Heat Biologics, Inc.
+314242783.6	Heidrick & Struggles International, Inc.
+2009775406	Helen of Troy Limited
+12328017.02	Helios and Matheson Analytics Inc
+507600596.3	Hemisphere Media Group, Inc.
+100300000	Hennessy Capital Acquisition Corp.
+10191736531	Henry Schein, Inc.
+725258703	Hercules Offshore, Inc.
+212870258.3	Heritage Commerce Corp
+282554278.9	Heritage Financial Corporation
+145881108.5	Heritage Financial Group
+207245884.8	Heritage Oaks Bancorp
+336139322.3	Heritage-Crystal Clean, Inc.
+1637714555	Herman Miller, Inc.
+212945508.4	Heron Therapeutics, Inc.  
+56622809.1	Heska Corporation
+93484580	HF Financial Corp.
+242558590	HF2 Financial Management Inc.
+1466002559	Hibbett Sports, Inc.
+195847868.9	Hickory Tech Corporation
+11275944.52	Highway Holdings Limited
+2288441595	Himax Technologies, Inc.
+166861490	Hingham Institution for Savings
+601774320	Hi-Tech Pharmacal Co., Inc.
+1795786008	Hittite Microwave Corporation
+55348605.99	HMN Financial, Inc.
+1798147084	HMS Holdings Corp
+1121743520	Hollysys Automation Technologies, Ltd.
+5972891071	Hologic, Inc.
+146313770	Home Bancorp, Inc.
+2147696845	Home BancShares, Inc.
+212621331.6	Home Federal Bancorp, Inc.
+41345020	Home Federal Bancorp, Inc. of Louisiana
+1733398300	Home Inns & Hotels Management Inc.
+1467206489	Home Loan Servicing Solutions, Ltd.
+4360206389	HomeAway, Inc.
+263404590.2	HomeStreet, Inc.
+315255547.4	HomeTrust Bancshares, Inc.
+41654755.88	Hong Kong Highpower Technology
+308235339.8	Hong Kong Television Network Limited
+156455888.1	Hooker Furniture Corporation
+87390423.9	HopFed Bancorp, Inc.
+192001519.7	Horizon Bancorp (IN)
+792926539.4	Horizon Pharma, Inc.
+140055975	Horizon Technology Finance Corporation
+857429816	Horsehead Holding Corp.
+2815906229	Houghton Mifflin Harcourt Company
+244178507.1	Houston Wire & Cable Company
+78445000	Hovnanian Enterprises Inc
+50505887.5	Howard Bancorp, Inc.
+3023234726	HSN, Inc.
+1510955379	Hub Group, Inc.
+4872024747	Hudson City Bancorp, Inc.
+124757592.3	Hudson Global, Inc.
+76966085.02	Hudson Technologies, Inc.
+7568161324	Huntington Bancshares Incorporated
+161086248.4	Hurco Companies, Inc.
+1535468979	Huron Consulting Group Inc.
+104038391	Hutchinson Technology Incorporated
+109660388.4	Huttig Building Products, Inc.
+105117750	Hyde Park Acquisition Corp. II
+224022335	Hydrogenics Corporation
+555941158.2	Hyperion Therapeutics, Inc.
+75108793.76	I.D. Systems, Inc.
+6193733586	IAC/InterActiveCorp
+163908446.5	Iao Kun Group Holding Company Limited
+1856218447	IBERIABANK Corporation
+127381864.6	icad inc.
+12562065080	Icahn Enterprises L.P.
+682269497.7	ICF International, Inc.
+775662330	ICG Group, Inc.
+2858219702	ICON plc
+2031571865	Iconix Brand Group, Inc.
+865656633.8	ICU Medical, Inc.
+42844466.87	Ideal Power Inc.
+940105047	Idenix Pharmaceuticals, Inc.
+67457159.77	Identive Group, Inc.
+382140504	Idera Pharmaceuticals, Inc.
+6468097824	IDEXX Laboratories, Inc.
+74624570.32	IF Bancorp, Inc.
+2026909061	iGATE Corporation
+319864216.5	Ignite Restaurant Group, Inc.
+1014586173	II-VI Incorporated
+81107485.05	Ikanos Communications, Inc.
+48724317.18	Ikonics Corporation
+21999232503	Illumina, Inc.
+27341611	Image Sensing Systems, Inc.
+346901794.3	Immersion Corporation
+12800704.16	ImmuCell Corporation
+1492709075	ImmunoGen, Inc.
+430635570.4	Immunomedics, Inc.
+1792493580	Impax Laboratories, Inc.
+66380693.6	Imprimis Pharmaceuticals, Inc.
+141000286.5	Imris Inc
+478495579.8	inContact, Inc.
+10469548619	Incyte Corporation
+805844394.5	Independent Bank Corp.
+275588203.4	Independent Bank Corporation
+659400214.2	Independent Bank Group, Inc
+23964815.13	Industrial Services of America, Inc.
+995937448.9	Infinera Corporation
+57428125	Infinity Cross Border Acquisition Corporation
+665037940.8	Infinity Pharmaceuticals, Inc.
+843742093.1	Infinity Property and Casualty Corporation
+4369818510	Informatica Corporation
+194344468.4	Information Services Group, Inc.
+44254532.4	InfoSonics Corp
+535537529.3	Ingles Markets, Incorporated
+398852592	InnerWorkings, Inc.
+80911141.47	Innodata Inc.
+1158062649	Innophos Holdings, Inc.
+1043328560	Innospec Inc.
+141184399	Innovative Solutions and Support, Inc.
+963617432	Insight Enterprises, Inc.
+36569453.9	Insignia Systems, Inc.
+723141200.5	Insmed, Inc.
+346012686	Insteel Industries, Inc.
+2452634120	Insulet Corporation
+1348728884	Insys Therapeutics, Inc.
+1522396861	Integra LifeSciences Holdings Corporation
+1841122524	Integrated Device Technology, Inc.
+107763505.6	Integrated Electrical Services, Inc.
+348044632.7	Integrated Silicon Solution, Inc.
+1.21392E+11	Intel Corporation
+388846901	Inteliquent, Inc.
+81064820.7	Intellipharmaceutics International Inc.
+1001098768	Inter Parfums, Inc.
+1096381884	Interactive Brokers Group, Inc.
+1540121414	Interactive Intelligence Group, Inc.
+7157450168	Intercept Pharmaceuticals, Inc.
+87519811.24	InterCloud Systems, Inc
+1246069828	InterDigital, Inc.
+1244864714	Interface, Inc.
+179348710.6	Intermolecular, Inc.
+106314351	Intermountain Community Bancorp
+1232458995	InterMune, Inc.
+425880245.6	Internap Network Services Corporation
+1465068717	International Bancshares Corporation
+1519190710	International Speedway Corporation
+168796004.9	Internet Gold Golden Lines Ltd.
+931154132	Internet Initiative Japan, Inc.
+24108570.72	Internet Patents Corporation
+31550157	Interphase Corporation
+117998386.2	Intersections, Inc.
+1504100498	Intersil Corporation
+1534330299	Interval Leisure Group, Inc.
+162191890.2	Intervest Bancshares Corp.
+187726935.6	Intevac, Inc.
+348081185.9	INTL FCStone Inc.
+441069403	Intra-Cellular Therapies Inc.
+25626064.36	IntriCon Corporation
+22005874352	Intuit Inc.
+16611789371	Intuitive Surgical, Inc.
+250324573.4	Inventure Foods, Inc.
+2869502976	Investors Bancorp, Inc.
+160889208.5	Investors Title Company
+99676507.2	iPass Inc.
+924179911.2	IPC The Hospitalist Company, Inc.
+3455355088	IPG Photonics Corporation
+81181938.96	IRIDEX Corporation
+479894110.3	Iridium Communications Inc
+1281609108	iRobot Corporation
+1814762721	Ironwood Pharmaceuticals, Inc.
+29322000	iShares Barclays GNMA Bond Fund
+27701940	iShares FTSE China (HK Listed) Index Fund
+45660000	iShares FTSE Developed Small Cap ex-North America Index Fund
+27747000	iShares FTSE EPRA/NAREIT Asia Index Fund
+29468000	iShares FTSE EPRA/NAREIT Europe Index Fund
+753176000	iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund
+27379000	iShares FTSE EPRA/NAREIT North America Index Fund
+305640000	iShares Goldman Sachs Semiconductor Index Fund
+5120400	iShares MSCI ACWI ex US Financials Sector Index Fund
+1619904000	iShares MSCI ACWI ex US Index Fund
+5446392000	iShares MSCI ACWI Index Fund
+2557439000	iShares MSCI All Country Asia ex Japan Index Fund
+5609000	iShares MSCI All Country Asia ex Japan Small Cap Index Fund
+6254000	iShares MSCI All Country Asia Information Technology Index Fun
+35633000	iShares MSCI Emerging Markets Asia Index Fund
+5345000	iShares MSCI Emerging Markets Consumer Discrectionary Sector I
+9886000	iShares MSCI Emerging Markets EMEA Index Fund
+1763000	iShares MSCI Emerging Markets Energy Sector Capped Index Fund
+5787500	iShares MSCI Emerging Markets Financials Sector Index Fund
+5335990	iShares MSCI Emerging Markets Growth Index Fund
+11775000	iShares MSCI Emerging Markets Latin America Index Fund
+7222455	iShares MSCI Emerging Markets Materials Sector Index Fund
+15200500	iShares MSCI Emerging Markets Value Index Fund
+479400000	iShares MSCI Europe Financials Sector Index Fund
+5614400	iShares MSCI Far East Financials Sector Index Fund
+5454813000	iShares NASDAQ Biotechnology Index Fund
+122246000	iShares S&P Emerging Markets Infrastructure Index Fund
+49726000	iShares S&P Global Clean Energy Index Fund
+8718360	iShares S&P Global Nuclear Index Fund
+344430000	iShares S&P Global Timber &Forestry Index Fund
+435471000	iShares S&P India Nifty 50 Index Fund
+175999750	iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun
+550908000	iShares S&P/Citigroup International Treasury Bond Fund
+6848387948	Isis Pharmaceuticals, Inc.
+372004513.2	Isle of Capri Casinos, Inc.
+378737417.8	Isramco, Inc.
+1372174027	Itron, Inc.
+519746042.3	Ituran Location and Control Ltd.
+70616915.6	Ivanhoe Energy, Inc.
+954409052.1	Ixia
+355461181.4	IXYS Corporation
+1686643895	J & J Snack Foods Corp.
+90508522	J. W. Mays, Inc.
+8485660944	J.B. Hunt Transport Services, Inc.
+2278082973	j2 Global, Inc.
+399727210	JA Solar Holdings, Co., Ltd.
+4994611449	Jack Henry & Associates, Inc.
+2466917508	Jack In The Box Inc.
+36807200	Jacksonville Bancorp Inc.
+65194818.75	Jacksonville Bancorp, Inc.
+132260976.6	JAKKS Pacific, Inc.
+211966943.1	Jamba, Inc.
+30114431.7	James River Coal Company
+9825985922	Jazz Pharmaceuticals plc
+3124676848	JDS Uniphase Corporation
+51509300.81	Jefferson Bancshares, Inc.
+2526932967	JetBlue Airways Corporation
+40236538.06	JetPay Corporation
+31098565.12	Jewett-Cameron Trading Company
+232632896	Jiayuan.com International Ltd.
+139367221.4	Jinpan International Limited
+547687727.7	Jive Software, Inc.
+89713010.34	Joe&#39;s Jeans Inc.
+252589999.9	John B. Sanfilippo & Son, Inc.
+220670903.4	Johnson Outdoors Inc.
+1540760980	Jos. A. Bank Clothiers, Inc.
+346888579	JTH Holding Inc. D/B/A Liberty Tax Service
+1291014390	Kaiser Aluminum Corporation
+102716521.4	KaloBios Pharmaceuticals, Inc.
+593344323	Kamada Ltd.
+494032439.4	Kandi Technologies Group, Inc.
+543286445.6	Kansas City Life Insurance Company
+1124832111	Karyopharm Therapeutics Inc.
+275989978.4	KCAP Financial, Inc.
+785446764.4	Kearny Financial
+52481919.6	Keating Capital, Inc.
+74735634.6	Kelly Services, Inc.
+902874265.5	Kelly Services, Inc.
+75483349.2	Kentucky First Federal Bancorp
+1459581400	Keryx Biopharmaceuticals, Inc.
+44228071.18	Kewaunee Scientific Corporation
+80656796.88	Key Technology, Inc.
+106125173.3	Key Tronic Corporation
+711972452.5	Kforce, Inc.
+714098777.7	Kimball International, Inc.
+322325611	Kindred Biosciences, Inc.
+116047740.6	Kingold Jewelry Inc.
+50720826.12	Kingstone Companies, Inc
+10228400	Kingtone Wirelessinfo Solution Holding Ltd
+125484525.3	KiOR, Inc.
+23109855.3	Kips Bay Medical, Inc.
+310129992.4	Kirkland&#39;s, Inc.
+10822522178	KLA-Tencor Corporation
+236889550.5	Knightsbridge Tankers Limited
+775984149.8	Kofax Limited
+148849396.3	Kona Grill, Inc.
+388899128.1	KongZhong Corporation
+285606223.6	Kopin Corporation
+37878449.67	Koss Corporation
+32826610241	Kraft Foods Group, Inc.
+3661946.472	KraneShares CSI China Internet ETF
+451829703.6	Kratos Defense & Security Solutions, Inc.
+154577749.4	Ku6 Media Co., Ltd.
+882411961.2	Kulicke and Soffa Industries, Inc.
+204205273.9	KVH Industries, Inc.
+1160126797	Kythera Biopharmaceuticals, Inc.
+70668811.92	L&L Energy, Inc.
+439959551.4	L.B. Foster Company
+36543074.4	La Jolla Pharmaceutical Company
+73873828.62	Lake Shore Bancorp, Inc.
+391293728.3	Lakeland Bancorp, Inc.
+612674408.4	Lakeland Financial Corporation
+36951473.4	Lakeland Industries, Inc.
+123144917.9	Lakes Entertainment, Inc.
+8488224874	Lam Research Corporation
+4715859576	Lamar Advertising Company
+2428548840	Lancaster Colony Corporation
+268746337.4	Landec Corporation
+59586813.66	Landmark Bancorp Inc.
+2704157593	Landstar System, Inc.
+31670464.32	Lantronix, Inc.
+65519572.26	LaPorte Bancorp, Inc.
+894678123.7	Lattice Semiconductor Corporation
+126562945	Lawson Products, Inc.
+355188356.8	Layne Christensen Company
+105862707.5	LCA-Vision Inc.
+162641418.7	LCNB Corporation
+672088181.6	LDR Holding Corporation
+147322661.9	Le Gaga Holdings Limited
+11795575.88	Leading Brands Inc
+1393681816	Leap Wireless International, Inc.
+39535391.61	Learning Tree International, Inc.
+1515481647	Legacy Reserves LP
+124870968.9	LeMaitre Vascular, Inc.
+181312500	Levy Acquisition Corp.
+188062500	Levy Acquisition Corp.
+985952782.1	Lexicon Pharmaceuticals, Inc.
+335537335.8	LGI Homes, Inc.
+420175589.7	LHC Group
+892933315.8	Liberty Global plc
+34154285622	Liberty Global plc
+197129025	Liberty Interactive Corporation
+848724310.6	Liberty Interactive Corporation
+5298568090	Liberty Interactive Corporation
+15185763818	Liberty Interactive Corporation
+1341086211	Liberty Media Corporation
+15523169511	Liberty Media Corporation
+44194499.16	Life Partners Holdings Inc
+2488099791	LifePoint Hospitals, Inc.
+195394124.4	Lifetime Brands, Inc.
+138347461.4	Lifevantage Corporation
+244209494	Lifeway Foods, Inc.
+1519134684	Ligand Pharmaceuticals Incorporated
+48333750.03	Lightbridge Corporation
+21297025.94	LightPath Technologies, Inc.
+151673202.3	Lihua International, Inc.
+61937931.66	Lilis Energy, Inc.
+11642687.28	Lime Energy Co.
+220786163.3	Limelight Networks, Inc.
+297159119.5	Limoneira Co
+102340578	Lincoln Educational Services Corporation
+6031325887	Lincoln Electric Holdings, Inc.
+10804266747	Linear Technology Corporation
+1095806250	Linn Co, LLC
+7843202908	Linn Energy, LLC
+455101954.5	Lionbridge Technologies, Inc.
+66565438.3	LipoScience, Inc.
+121452484.5	Liquid Holdings Group, Inc.
+803883311.4	Liquidity Services, Inc.
+2067070740	Littelfuse, Inc.
+39222256.88	LiveDeal, Inc.
+722683466.6	LivePerson, Inc.
+8874303610	LKQ Corporation
+188314982.3	LMI Aerospace, Inc.
+105538135.9	LNB Bancorp, Inc.
+36626378.22	Local Corporation
+2747202059	Logitech International S.A.
+1010019578	LogMein, Inc.
+111091890.7	LoJack Corporation
+12750270.13	LookSmart, Ltd.
+2408040644	Loral Space and Communications, Inc.
+54825250.41	Louisiana Bancorp, Inc.
+61691357.52	Lpath, Inc.
+5518276040	LPL Financial Holdings Inc.
+68586096.6	LRAD Corporation
+44740498.95	LSB Financial Corp.
+6086845733	LSI Corporation
+196929303.7	LSI Industries Inc.
+439378288.1	LTX-Credence Corporation
+5910158340	lululemon athletica inc.
+787124754.4	Luminex Corporation
+403899967.7	Lumos Networks Corp.
+23174331.2	Luna Innovations Incorporated
+87807392.4	M B T Financial Corp
+756127602.5	M/A-COM Technology Solutions Holdings, Inc.
+140668437	Macatawa Bank Corporation
+66976068	Mackinac Financial Corporation
+894225093.1	MacroGenics, Inc.
+51876418	Madison County Financial, Inc.
+64430227.53	Magal Security Systems Ltd.
+1620006693	Magellan Health Services, Inc.
+62581218.42	Magellan Petroleum Corporation
+321701242.1	Magic Software Enterprises Ltd.
+364555053	magicJack VocalTec Ltd
+18487287.2	MagneGas Corporation
+79103580.45	Magnetek, Inc.
+44747733.8	Magyar Bancorp, Inc.
+149820000	Maiden Holdings, Ltd.
+806004832.8	Maiden Holdings, Ltd.
+343806271.1	MainSource Financial Group, Inc.
+24346508.03	Majesco Entertainment Company
+951334597.4	MakeMyTrip Limited
+186355480.2	Malibu Boats, Inc.
+69847737.45	Malvern Bancorp, Inc.
+78378213.6	MAM Software Group, Inc.
+128842481.6	Mandalay Digital Group, Inc
+2749701464	Manhattan Associates, Inc.
+8512380	Manhattan Bridge Capital, Inc
+199251663.5	Manitex International, Inc.
+52547477.4	Mannatech, Incorporated
+2151022695	MannKind Corporation
+1033671503	ManTech International Corporation
+466627799.6	Marchex, Inc.
+32319800	Marine Petroleum Trust
+2233869869	MarketAxess Holdings, Inc.
+1472140188	Marketo, Inc.
+299231543.1	Marlin Business Services Corp.
+313905570.2	Marlin Midstream Partners, LP
+15728763799	Marriott International
+258919661.2	Marrone Bio Innovations, Inc.
+626724215.7	Marten Transport, Ltd.
+1165909889	Martin Midstream Partners L.P.
+7673640000	Marvell Technology Group Ltd.
+1490209511	Masimo Corporation
+131372312.6	Material Sciences Corporation
+839238682.7	Matrix Service Company
+12031344804	Mattel, Inc.
+113076045.3	Mattersight Corporation
+1113239814	Matthews International Corporation
+1409625368	Mattress Firm Holding Corp.
+155997776.9	Mattson Technology, Inc.
+8789180922	Maxim Integrated Products, Inc.
+259657577.8	Maxwell Technologies, Inc.
+361169451.5	Mazor Robotics Ltd.
+1598281583	MB Financial Inc.
+316181337.7	MCG Capital Corporation
+931632054.2	McGrath RentCorp
+1102615910	MDC Partners Inc.
+928005966.4	Measurement Specialties, Inc.
+46942341.6	Mecox Lane Limited
+363408776.6	Medallion Financial Corp.
+1320899713	MedAssets, Inc.
+13731261.24	Mediabistro Inc.
+126043929.3	Medical Action Industries Inc.
+50843330.61	MediciNova, Inc.
+3450038167	Medidata Solutions, Inc.
+6488410448	Medivation, Inc.
+174956316.7	MEI Pharma, Inc.
+34577472.41	MELA Sciences, Inc
+23242544918	Melco Crown Entertainment Limited
+1620991593	Mellanox Technologies, Ltd.
+1339903697	Memorial Production Partners LP
+2355230095	Mentor Graphics Corporation
+8458654.841	MER Telemanagement Solutions Ltd.
+4017916903	MercadoLibre, Inc.
+177720768.9	Mercantile Bank Corporation
+499332113.8	Mercer International Inc.
+205246000.7	Merchants Bancshares, Inc.
+370844417.3	Mercury Systems Inc
+234281333.6	Merge Healthcare Incorporated.
+82525685.5	MergeWorthRx Corp.
+899042208.4	Meridian Bioscience Inc.
+541365677.3	Meridian Interstate Bancorp, Inc.
+643856973.7	Merit Medical Systems, Inc.
+494338540.9	Merrimack Pharmaceuticals, Inc.
+95822190	Meru Networks, Inc.
+52212456.32	Merus Labs International Inc.
+321480627.5	Mesa Laboratories, Inc.
+249891985.4	Meta Financial Group, Inc.
+43226811.25	Metabolix, Inc.
+6229264811	Methanex Corporation
+24802716.18	METHES ENERGIES INTERNATIONAL LTD
+276736173.7	Metro Bancorp, Inc
+106845374	MFRI, Inc.
+48298598.61	MGC Diagnostics Corporation
+895653472.5	MGE Energy Inc.
+102467810.9	MGP Ingredients, Inc.
+587343255.1	Micrel, Incorporated
+8978153150	Microchip Technology Incorporated
+116205758.9	MicroFinancial Incorporated
+26606859766	Micron Technology, Inc.
+30439104.12	Micronet Enertec Technologies, Inc.
+4151446946	MICROS Systems, Inc.
+2162866257	Microsemi Corporation
+3.15261E+11	Microsoft Corporation
+1492979998	MicroStrategy Incorporated
+90755091.71	Microvision, Inc.
+50551364.63	Mid Penn Bancorp
+447301752.8	Mid-Con Energy Partners, LP
+129943038	Middleburg Financial Corporation
+323812271.2	Middlesex Water Company
+218358095.2	MidWestOne Financial Group, Inc.
+763791850.9	MiMedx Group, Inc
+39628791.98	MIND C.T.I. Ltd.
+286721456.4	Mirati Therapeutics, Inc.
+48939844.8	MISONIX, Inc.
+175070839.7	Mitcham Industries, Inc.
+164328436.8	Mitek Systems, Inc.
+484012384.6	Mitel Networks Corporation
+1580349266	MKS Instruments, Inc.
+1890429079	Mobile Mini, Inc.
+92143287.05	MOCON, Inc.
+246751984.1	ModusLink Global Solutions, Inc
+925676936.4	Momenta Pharmaceuticals, Inc.
+304484518.8	Monarch Casino & Resort, Inc.
+122511468.9	Monarch Financial Holdings, Inc.
+60154912348	Mondelez International, Inc.
+1138962987	Moneygram International, Inc.
+1321567505	Monolithic Power Systems, Inc.
+1139354829	Monotype Imaging Holdings Inc.
+1778520647	Monro Muffler Brake, Inc.
+131975530.4	Monroe Capital Corporation
+12540263670	Monster Beverage Corporation
+423703707.6	Montage Technology Group Limited
+265195471.3	Morgans Hotel Group Co.
+3820993031	Morningstar, Inc.
+220274163.2	MoSys, Inc.
+368466307	Motorcar Parts of America, Inc.
+505760929.1	Move, Inc.
+40118569.06	MSB Financial Corp.
+146066792.4	MTR Gaming Group, Inc.
+1095209266	MTS Systems Corporation
+556404192.6	Multi-Color Corporation
+353143376.6	Multi-Fineline Electronix, Inc.
+907470816.8	Multimedia Games Holding Company, Inc.
+136624958.6	MutualFirst Financial Inc.
+2087463582	MWI Veterinary Supply, Inc.
+19877927392	Mylan Inc.
+497665160.2	MYR Group, Inc.
+2792790386	Myriad Genetics, Inc.
+432899155.3	Nanometrics Incorporated
+189712341.1	Nanosphere, Inc.
+310460729	NanoString Technologies, Inc.
+136052014.8	NAPCO Security Technologies, Inc.
+195824912.5	NASB Financial Inc.
+336695590.3	NASDAQ Premium Income and Growth Fund Inc.
+225159944.4	Nathan&#39;s Famous, Inc.
+96416878.08	National American University Holdings, Inc.
+251725098	National Bankshares, Inc.
+966452456.9	National Beverage Corp.
+951470059.4	National CineMedia, Inc.
+3614556022	National Instruments Corporation
+590651916.7	National Interstate Corporation
+1521511193	National Penn Bancshares, Inc.
+57913559.88	National Research Corporation
+962690121.2	National Research Corporation
+21402638.4	National Security Group, Inc.
+771151318.1	National Western Life Insurance Company
+36443378.4	Natural Alternatives International, Inc.
+253975395.5	Nature&#39;s Sunshine Products, Inc.
+783693195.9	Natus Medical Incorporated
+50065086.98	Naugatuck Valley Financial Corporation
+65434021.5	NB&T FINANCIAL GROUP INC
+984570293.4	NBT Bancorp Inc.
+153814651.9	NCI, Inc.
+1706162094	Nektar Therapeutics
+1583628648	Neogen Corporation
+162622315	NeoGenomics, Inc.
+268915184.9	Neonode Inc.
+189721839.1	Neostem, Inc.
+190346732.1	Neptune Technologies & Bioresources Inc
+451864131.7	Net 1 UEPS Technologies, Inc.
+101855417.2	Net Element, Inc.
+13595238756	NetApp, Inc.
+9212266274	NetEase, Inc.
+25850481616	Netflix, Inc.
+1326364394	NETGEAR, Inc.
+64726654.9	Netlist, Inc.
+1531242192	NetScout Systems, Inc.
+42587052.5	NetSol Technologies Inc.
+1231710676	Neurocrine Biosciences, Inc.
+7286186.48	NeuroMetrix, Inc.
+46026990.8	New Century Bancorp, Inc. (NC)
+123577588.8	New Hampshire Thrift Bancshares, Inc.
+563991136.3	New York Mortgage Trust, Inc.
+176367625.4	NewBridge Bancorp
+10962624.09	NewLead Holdings Ltd.
+1195344020	NewLink Genetics Corporation
+766856701.3	Newport Corporation
+3437632733	News Corporation
+10234059584	News Corporation
+727622704.3	NewStar Financial, Inc.
+105449946.2	Newtek Business Services Inc.
+1337885780	Nexstar Broadcasting Group, Inc.
+8853626.67	NF Energy Saving Corporation
+156408804.4	NGP Capital Resources Company
+1272545240	NIC Inc.
+2658105684	NICE-Systems Limited
+193185663.3	Nicholas Financial, Inc.
+506969351.7	NII Holdings, Inc.
+67497791.16	Ninetowns Internet Technology Group Company Limited
+665861945.6	NMI Holdings Inc
+330196248.4	NN, Inc.
+1093684256	Noodles & Company
+4488140140	Nordson Corporation
+14236128.48	Nortech Systems Incorporated
+1133216102	Nortek Inc.
+156627239.1	North Valley Bancorp
+98805718.5	Northeast Bancorp
+91042214.4	Northeast Community Bancorp, Inc.
+91801125.9	Northern Technologies International Corporation
+14793099820	Northern Trust Corporation
+728878884.8	Northfield Bancorp, Inc.
+160433980.1	Northrim BanCorp Inc
+1332832719	Northwest Bancshares, Inc.
+244029969.5	Northwest Biotherapeutics, Inc.
+323543997.8	Northwest Pipe Company
+7030327992	Norwegian Cruise Line Holdings Ltd.
+109005806.2	Norwood Financial Corp.
+137810343.7	Nova Lifestyle, Inc
+299441417	Nova Measuring Instruments Ltd.
+1122583077	Novadaq Technologies Inc
+86901995.7	Novatel Wireless, Inc.
+1201956849	Novavax, Inc.
+16816519.35	Novogen Limited
+3938044827	NPS Pharmaceuticals, Inc.
+344085632	NTELOS Holdings Corp.
+4776101223	Nuance Communications, Inc.
+269514000	Numerex Corp.
+255023150.4	Nutraceutical International Corporation
+448956964	NutriSystem Inc
+1641082811	NuVasive, Inc.
+43697772.54	NV5 Holdings, Inc.
+280925112.7	NVE Corporation
+10597503826	NVIDIA Corporation
+13823380587	NXP Semiconductors N.V.
+839019388.1	NxStage Medical, Inc.
+198841691.5	Nymox Pharmaceutical Corporation
+16505285679	O&#39;Reilly Automotive, Inc.
+106335387.2	O2Micro International Limited
+78028543.2	Oak Valley Bancorp (CA)
+75106911.6	OBA Financial Services, Inc.
+25151516.25	Ocean Bio-Chem, Inc.
+52774595.3	Ocean Power Technologies, Inc.
+2282796468	Ocean Rig UDW Inc.
+97091430.88	Ocean Shore Holding Co.
+302169722.8	OceanFirst Financial Corp.
+227040412.1	Ocera Therapeutics, Inc.
+264635948.5	Oclaro, Inc.
+101501073	Oconee Federal Financial Corp.
+26419413.08	Oculus Innovative Sciences, Inc.
+160487506.6	Odyssey Marine Exploration, Inc.
+122779911.8	OFS Capital Corporation
+93024471.6	Ohio Valley Banc Corp.
+313529722.2	Ohr Pharmaceuticals, Inc.
+4563294004	Old Dominion Freight Line, Inc.
+185501832.8	Old Line Bancshares, Inc.
+1338176180	Old National Bancorp
+78104391.75	Old Point Financial Corporation
+70034415.29	Old Second Bancorp, Inc.
+304218643.5	Olympic Steel, Inc.
+204561231.9	Omega Flex, Inc.
+417808924.8	Omeros Corporation
+249987969.6	OmniAmerican Bancorp, Inc.
+1013237362	Omnicell, Inc.
+855036146.6	OmniVision Technologies, Inc.
+4168731760	ON Semiconductor Corporation
+100700898.8	On Track Innovations Ltd
+170167348.5	OncoGenex Pharmaceuticals Inc.
+144166490.6	Oncolytics Biotech, Inc.
+1007750131	OncoMed Pharmaceuticals, Inc.
+187131309.7	Onconova Therapeutics, Inc.
+196158925.6	Oncothyreon Inc.
+87823272.41	Oneida Financial Corp.
+38992434.6	Onvia, Inc.
+3117770842	Open Text Corporation
+1773509660	OpenTable, Inc.
+47930040	Opexa Therapeutics, Inc.
+1118151148	Ophthotech Corporation
+331462131.7	Oplink Communications, Inc.
+23506837.5	Optibase Ltd.
+24549217.88	Optical Cable Corporation
+11449659.07	OptimumBank Holdings, Inc.
+146664748.3	Oramed Pharmaceuticals Inc.
+374199992.9	OraSure Technologies, Inc.
+412480835.2	ORBCOMM Inc.
+15794045.06	Orbit International Corporation
+576928338.4	Orbotech Ltd.
+721782274.8	Orexigen Therapeutics, Inc.
+49476800.16	Origin Agritech Limited
+701187094.4	Oritani Financial Corp.
+132864617.2	Orrstown Financial Services Inc
+419023952.8	Orthofix International N.V.
+1245817063	OSI Systems, Inc.
+568948133.3	Osiris Therapeutics, Inc.
+22000000	Ossen Innovation Co., Ltd.
+17536063.2	Otelco Inc.
+1109883298	Otter Tail Corporation
+1977806439	Outerwall Inc.
+179033801.4	Ovascience Inc.
+38531133.81	Overland Storage, Inc.
+445525996.8	Overstock.com, Inc.
+373696880.4	Oxford Immunotec Global PLC
+137576499	Oxford Lane Capital Corp.
+6456229.52	OXiGENE, Inc.
+65336382.3	Oxygen Biotherapeutics, Inc.
+27704398.1	P & F Industries, Inc.
+154241973.5	P.A.M. Transportation Services, Inc.
+22084710930	PACCAR Inc.
+314957587.7	Pacer International, Inc.
+475633591.8	Pacific Biosciences of California, Inc.
+253298469.6	Pacific Continental Corporation (Ore)
+141083943.3	Pacific Ethanol, Inc.
+117759421	Pacific Mercantile Bancorp
+266000775.6	Pacific Premier Bancorp Inc
+191358276.8	Pacific Sunwear of California, Inc.
+2420521322	Pacira Pharmaceuticals, Inc.
+614365064.7	Pactera Technology International Ltd
+1762921270	PacWest Bancorp
+240820345.3	Pain Therapeutics
+163131559.8	Palmetto Bancshares, Inc. (SC)
+2292199448	Pan American Silver Corp.
+5165702171	Panera Bread Company
+2053621549	Papa John&#39;S International, Inc.
+112846129.7	Paragon Shipping Inc.
+549080000	Parametric Sound Corp.
+3011261086	PAREXEL International Corporation
+149468365.2	Park City Group, Inc.
+296423316.3	Park Sterling Corporation
+70896298.5	Parke Bancorp, Inc.
+426706949.4	ParkerVision, Inc.
+612351760.4	Park-Ohio Holdings Corp.
+1365213368	Partner Communications Company Ltd.
+37728002.62	Pathfinder Bancorp, Inc.
+463108602.6	Patrick Industries, Inc.
+47949815.44	Patriot National Bancorp Inc.
+337837786.3	Patriot Transportation Holding, Inc.
+943722483.2	Pattern Energy Group Inc.
+4297304615	Patterson Companies, Inc.
+4272062773	Patterson-UTI Energy, Inc.
+5178659.974	Paulson Capital Corp.
+15060179804	Paychex, Inc.
+527666207.5	PC Connection, Inc.
+122910091.5	PCM, Inc.
+155627455.2	PC-Tel, Inc.
+2109234438	PDC Energy, Inc.
+641146434.5	PDF Solutions, Inc.
+77746391.46	PDI, Inc.
+1215620555	PDL BioPharma, Inc.
+168514332.2	Peapack-Gladstone Financial Corporation
+10078299.33	Peerless Systems Corporation
+1759505792	Pegasystems Inc.
+383104313.3	Pendrell Corporation
+161344713.1	Penford Corporation
+897996545.4	Penn National Gaming, Inc.
+208274822.9	PennantPark Floating Rate Capital Ltd.
+771942114.4	PennantPark Investment Corporation
+222158389.4	Penns Woods Bancorp, Inc.
+4468278250	People&#39;s United Financial, Inc.
+246049165	Peoples Bancorp Inc.
+87970202.84	Peoples Bancorp of North Carolina, Inc.
+116322806.4	Peoples Federal Bancshares, Inc.
+67472359.62	Peoples Financial Corporation
+127581804.1	Perceptron, Inc.
+293398781.5	Peregrine Pharmaceuticals Inc.
+193829260.9	Peregrine Semiconductor Corp.
+1043713986	Perfect World Co., Ltd.
+675455504.1	Perficient, Inc.
+352040177.4	Performant Financial Corporation
+94598091.28	Perfumania Holdings, Inc
+197638520	Pericom Semiconductor Corporation
+142188973.8	Perion Network Ltd
+40580194.36	Perma-Fix Environmental Services, Inc.
+114466586.1	Pernix Therapeutics Holdings, Inc.
+239427934.8	Perry Ellis International Inc.
+270549658.2	PetMed Express, Inc.
+6724815317	PetSmart, Inc
+136986368.4	PFSweb, Inc.
+573960445.2	PGT, Inc.
+11175513464	Pharmacyclics, Inc.
+615386503.7	PHI, Inc.
+617517150.6	PHI, Inc.
+274289007	PhotoMedex, Inc.
+528158613.8	Photronics, Inc.
+564077959.2	PICO Holdings Inc.
+4318013980	Pilgrim&#39;s Pride Corporation
+242303737.4	Pingtan Marine Enterprise Ltd.
+1214060000	Pinnacle Financial Partners, Inc.
+73300446.1	Pioneer Power Solutions, Inc.
+117542415.8	Pixelworks, Inc.
+54550612.76	Pizza Inn Holdings, Inc.
+48852515.76	Planar Systems, Inc.
+190707386	Planet Payment, Inc.
+1371624042	Plexus Corp.
+424819985.4	Plug Power, Inc.
+30826041.86	Plumas Bancorp
+242529872	Pluristem Therapeutics, Inc.
+263786818.8	PLX Technology, Inc.
+1482040743	PMC - Sierra, Inc.
+140369968.9	PMFG, Inc.
+46998727.26	Poage Bankshares, Inc.
+5268453	Point.360
+63893581.84	Pointer Telocation Ltd.
+474160205.6	Points International, Ltd.
+9581776.88	PokerTek, Inc.
+33357122	Polonia Bancorp, Inc.
+1880450000	Polycom, Inc.
+2704786811	Pool Corporation
+302090303.7	Pope Resources
+930796479.9	Popeyes Louisiana Kitchen, Inc.
+232080000	Popular, Inc.
+2758395913	Popular, Inc.
+12697646.65	Porter Bancorp, Inc.
+2843689251	Portfolio Recovery Associates, Inc.
+1091845423	Portola Pharmaceuticals, Inc.
+36131847.88	PostRock Energy Corporation
+585959267.7	Potbelly Corporation
+1624902703	Potlatch Corporation
+787572789.9	Powell Industries, Inc.
+1770178146	Power Integrations, Inc.
+770517858.2	Power Solutions International, Inc.
+925344000	PowerShares FTSE RAFI US 1500 Small-Mid Portfolio
+82320000	PowerShares Global Agriculture Portfolio
+28465000	PowerShares Global Gold & Precious Metals Portfolio
+334640000	PowerShares NASDAQ Internet Portfolio
+45266265500	PowerShares QQQ Trust, Series 1
+120998280	PowerShares S&P SmallCap Consumer Discretionary Portfolio
+54561750	PowerShares S&P SmallCap Consumer Staples Portfolio
+45076550	PowerShares S&P SmallCap Energy Portfolio
+109246200	PowerShares S&P SmallCap Financials Portfolio
+199723000	PowerShares S&P SmallCap Health Care Portfolio
+111029250	PowerShares S&P SmallCap Industrials Portfolio
+236008500	PowerShares S&P SmallCap Information Technology Portfolio
+21800000	PowerShares S&P SmallCap Materials Portfolio
+35000000	PowerShares S&P SmallCap Utilities Portfolio
+252296619.8	Pozen, Inc.
+334068990.4	Prana Biotechnology Ltd
+300463914.2	Preferred Bank
+339738727	Preformed Line Products Company
+49041031	Premier Exhibitions, Inc.
+113024809	Premier Financial Bancorp, Inc.
+1102419814	Premier, Inc.
+188733163.6	PRGX Global, Inc.
+67660679839	priceline.com Incorporated
+2836205292	PriceSmart, Inc.
+55701490.08	Prima BioMed Ltd
+129893407.2	PrimeEnergy Corporation
+73069163.36	Primo Water Corporation
+1673491735	Primoris Services Corporation
+2170726885	PrivateBancorp, Inc.
+251843533.3	Procera Networks, Inc.
+8188686.45	Pro-Dex, Inc.
+20091961.86	Professional Diversity Network, Inc.
+280405112.4	Progenics Pharmaceuticals Inc.
+1274026000	Progress Software Corporation
+1494089355	Proofpoint, Inc.
+32090794.64	ProPhase Labs, Inc.
+221158155.7	Prosensa Holding N.V.
+366100000	ProShares Ultra Nasdaq Biotechnology
+575608000	ProShares UltraPro QQQ
+152656000	ProShares UltraPro Short QQQ 
+8532000	ProShares UltraShort Nasdaq Biotechnology
+3519333778	Prospect Capital Corporation
+6373600.16	Prospect Global Resources Inc.
+660496207.4	Prothena Corporation plc
+88516244.74	Providence and Worcester Railroad Company
+152171188.5	Provident Financial Holdings, Inc.
+103370281.5	Prudential Bancorp, Inc.
+41865990.4	PSB Holdings, Inc.
+124300057	pSivida Corp.
+89802645.4	Psychemedics Corporation
+4628792906	PTC Inc.
+746408699.7	PTC Therapeutics, Inc.
+116402012.2	Pulaski Financial Corp.
+154561755.1	Pure Cycle Corporation
+53846785.08	QAD Inc.
+290145197.7	QAD Inc.
+48766445.67	QC Holdings, Inc.
+99755719	QCR Holdings, Inc.
+5155335600	Qiagen N.V.
+2079480000	QIWI plc
+6926583.3	QKL Stores, Inc.
+2497510405	Qlik Technologies Inc.
+980207200	QLogic Corporation
+330499750.7	QLT Inc.
+1.27863E+11	QUALCOMM Incorporated
+390437019.5	Quality Distribution, Inc.
+1068134039	Quality Systems, Inc.
+16786770.29	Qualstar Corporation
+855962320.8	Qualys, Inc.
+169524386.1	Quantum Fuel Systems Technologies Worldwide, Inc.
+123279975	Quartet Merger Corp.
+127592237.5	Quartet Merger Corp.
+4642930927	Questcor Pharmaceuticals, Inc.
+272994314.7	QuickLogic Corporation
+948568420.4	Quidel Corporation
+246083330	Quinpario Acquisiton corp.
+251497163.3	Quinpario Acquisiton corp.
+297250626.2	QuinStreet, Inc.
+137598826.9	Qumu Corporation
+3536612201	Qunar Cayman Islands Limited
+207826747.8	R.G. Barry Corporation
+3336941640	R.R. Donnelley & Sons Company
+13823010.99	Rada Electronics Industries Limited
+46889508.57	Radcom Ltd.
+201557622.8	Radio One, Inc.
+251649637.8	Radio One, Inc.
+103003465	RadiSys Corporation
+79376608.08	RadNet, Inc.
+738788808.6	Radware Ltd.
+1053802381	Rambus, Inc.
+20045744.16	Rand Capital Corporation
+115617082.1	Rand Logistics, Inc.
+7434375138	Randgold Resources Limited
+991701065.1	Raptor Pharmaceutical Corp.
+1358366064	Raven Industries, Inc.
+1456031374	RBC Bearings Incorporated
+85950365.05	RCM Technologies, Inc.
+837649876.8	RDA Microelectronics, Inc.
+295057095.5	ReachLocal, Inc.
+173988261.4	Reading International Inc
+229997049.2	Reading International Inc
+256921521.1	RealNetworks, Inc.
+1607806508	RealPage, Inc.
+986458289	Receptos, Inc.
+26516651.81	Recon Technology, Ltd.
+1052938806	Red Robin Gourmet Burgers, Inc.
+68126818.8	Rediff.com India Limited
+146617024.3	Regado BioSciences, Inc.
+33303254687	Regeneron Pharmaceuticals, Inc.
+447017388.2	Regulus Therapeutics Inc.
+194045830.4	Reis, Inc
+28133749.13	Reliv&#39; International, Inc.
+1146878608	Relypsa, Inc.
+65247014.56	Remark Media, Inc.
+695175011.5	Remy International, Inc.
+857118076	Renasant Corporation
+410805722.7	Renewable Energy Group, Inc.
+1297907821	Rent-A-Center Inc.
+421881515.3	Rentech, Inc.
+787969476	Rentrak Corporation
+517554913	Repligen Corporation
+434656671	Repros Therapeutics Inc.
+430226644.3	Republic Airways Holdings, Inc.
+497378797.8	Republic Bancorp, Inc.
+91684326.41	Republic First Bancorp, Inc.
+149412939.4	Research Frontiers Incorporated
+190534089.6	Resource America, Inc.
+514567549.9	Resources Connection, Inc.
+51372679.5	Response Genetics, Inc.
+1050672489	Retail Opportunity Investments Corp.
+2174290399	RetailMeNot, Inc.
+451619110.8	Retrophin, Inc.
+280836691.1	Revolution Lighting Technologies, Inc.
+943331823.3	Rex Energy Corporation
+55200264.66	RF Industries, Ltd.
+1641532731	RF Micro Devices, Inc.
+91863926.23	RGC Resources Inc.
+5716161.92	RiceBran Technologies
+154241263	Richardson Electronics, Ltd.
+107470473.2	Rick&#39;s Cabaret International, Inc.
+301634679.9	Rigel Pharmaceuticals, Inc.
+741216700	RigNet, Inc.
+22972516.08	RIT Technologies Ltd.
+39680300.7	River Valley Bancorp.
+3400267689	Riverbed Technology, Inc.
+76404426	Riverview Bancorp Inc
+60968835.9	RLJ Entertainment, Inc.
+58847965	RMG Networks Holding Corporation
+1771034218	Rocket Fuel Inc.
+341624113	Rockville Financial, Inc.
+503174349.4	Rockwell Medical, Inc.
+114174845.1	Rocky Brands, Inc.
+71066293.2	Rocky Mountain Chocolate Factory, Inc.
+644631850.7	Rofin-Sinar Technologies, Inc.
+126750000	ROI Acquisition Corp. II
+151250000	ROI Acquisition Corp. II
+39376624.07	Rosetta Genomics Ltd.
+2782161898	Rosetta Resources Inc.
+14496039076	Ross Stores, Inc.
+2481196727	Rovi Corporation
+23307564	Royal Bancshares of Pennsylvania, Inc.
+4325257083	Royal Gold, Inc.
+41857135.32	Royale Energy, Inc.
+169456139.5	Royce Focus Trust, Inc.
+844846469.6	RPX Corporation
+162190345.4	RRSat Global Communications Network Ltd.
+216527089.9	RTI Surgical, Inc.
+331173724	Rubicon Technology, Inc.
+258150828.8	Rush Enterprises, Inc.
+1134343015	Rush Enterprises, Inc.
+483466658.9	Ruth&#39;s Hospitality Group, Inc.
+15612069134	Ryanair Holdings plc
+649781964.3	S&T Bancorp, Inc.
+71000937.28	S&W Seed Company
+419196788	S.Y. Bancorp, Inc.
+138977500	Sabra Healthcare REIT, Inc.
+1054254474	Sabra Healthcare REIT, Inc.
+123410083.8	SAExploration Holdings, Inc.
+860575919	Safety Insurance Group, Inc.
+691046502.8	Sagent Pharmaceuticals, Inc.
+831910527.2	Saia, Inc.
+208801091.2	Salem Communications Corporation
+47130763.75	Salisbury Bancorp, Inc.
+6627523800	Salix Pharmaceuticals, Ltd.
+1676941089	Sanderson Farms, Inc.
+16896681881	SanDisk Corporation
+582945286.9	Sandy Spring Bancorp, Inc.
+1205663411	Sangamo BioSciences, Inc.
+1405632485	Sanmina Corporation
+283398872.1	Sapiens International Corporation N.V.
+2336986971	Sapient Corporation
+1049298067	Sarepta Therapeutics, Inc.
+42122290.85	SB Financial Group, Inc.
+12483797165	SBA Communications Corporation
+1084402909	ScanSource, Inc.
+7567002.3	Schmitt Industries, Inc.
+671665577.4	Schnitzer Steel Industries, Inc.
+1093909894	Scholastic Corporation
+260324754.9	SciClone Pharmaceuticals, Inc.
+1134859937	Scientific Games Corp
+704483233.9	SciQuest, Inc.
+396408419.8	SeaChange International, Inc.
+283266727.2	Seacoast Banking Corporation of Florida
+16684324116	Seagate Technology.
+20092789.69	Seanergy Maritime Holdings Corp
+4357057398	Sears Holdings Corporation
+530041080.5	Sears Hometown and Outlet Stores, Inc.
+6726674094	Seattle Genetics, Inc.
+54900308.4	Security National Financial Corporation
+5827971090	SEI Investments Company
+983860020	Select Comfort Corporation
+27020285.37	Selectica, Inc.
+1296207537	Selective Insurance Group, Inc.
+37754660.8	SemiLEDS Corporation
+1670012246	Semtech Corporation
+62445043.84	Seneca Foods Corp.
+325364578.5	Seneca Foods Corp.
+357723336.2	Senomyx, Inc.
+270777780	Sequenom, Inc.
+145387237.8	Sequential Brands Group, Inc.
+729863505	ServiceSource International, Inc.
+42005350.92	Sevcon, Inc.
+44293387.6	Severn Bancorp Inc
+751195103	SFX Entertainment, Inc.
+66579542.12	SGOCO Group, Ltd
+1810398758	Shanda Games Limited
+77569141.53	Sharps Compliance Corp
+637878213.4	Shenandoah Telecommunications Co
+305257144.5	Shiloh Industries, Inc.
+31513262350	Shire plc
+527881545	Shoe Carnival, Inc.
+82920632.2	Shore Bancshares Inc
+520963162.5	ShoreTel, Inc.
+1864896500	Shutterfly, Inc.
+149512376.2	SI Financial Group, Inc.
+62059204.06	Siebert Financial Corp.
+233251107.4	Sierra Bancorp
+612938505.2	Sierra Wireless, Inc.
+362382585.7	Sify Technologies Limited
+175434680.3	SIGA Technologies Inc.
+168860429.4	Sigma Designs, Inc.
+11131304902	Sigma-Aldrich Corporation
+41909834.56	SigmaTron International, Inc.
+5829396635	Signature Bank
+3000818810	Silgan Holdings, Inc.
+487591487.8	Silicom Ltd
+412043805.2	Silicon Graphics International Corp
+451023987.2	Silicon Image, Inc.
+2142185682	Silicon Laboratories, Inc.
+531864990.6	Silicon Motion Technology Corporation
+3965775000	Siliconware Precision Industries Company, Ltd.
+392437500	Silver Eagle Acquisition Corp.
+418437500	Silver Eagle Acquisition Corp.
+847114012.7	Silver Standard Resources Inc.
+205183985.5	Silvercrest Asset Management Group Inc.
+558821983.2	Simmons First National Corporation
+128366161.1	Simplicity Bancorp Inc.
+97729275.52	Simulations Plus, Inc.
+4861319208	Sina Corporation
+2974175175	Sinclair Broadcast Group, Inc.
+25556860.12	SinoCoking Coal and Coke Chemical Industries, Inc
+12652861.91	Sino-Global Shipping America, Ltd.
+370085767.5	Sinovac Biotech, Ltd.
+22149202634	Sirius XM Holdings Inc.
+3714597721	Sirona Dental Systems, Inc.
+218337029.3	Skullcandy, Inc.
+170617875	Sky-mobi Limited
+50390233.11	SkyPeople Fruit Juice, Inc.
+42130592	Skystar Bio-Pharmaceutical Company
+635210683.2	SkyWest, Inc.
+6181799481	Skyworks Solutions, Inc.
+154439670	SLM Corporation
+271240000	SLM Corporation
+10400535453	SLM Corporation
+144343294	SMART Technologies Inc.
+9606179.05	SmartPros Ltd.
+700595912.8	Smith & Wesson Holding Corporation
+71844908.52	Smith Micro Software, Inc.
+35866784.13	SMTC Corporation
+24092000	SMTP, Inc.
+1867044208	Snyder&#39;s-Lance, Inc.
+844456156.2	SodaStream International Ltd.
+2876187230	Sohu.com Inc.
+989056988.1	Solar Capital Ltd.
+214145945.3	Solar Senior Capital Ltd.
+6306187636	SolarCity Corporation
+766048116.3	Solazyme, Inc.
+1103692827	Sonic Corp.
+40383676.56	Sonic Foundry, Inc.
+1028341580	Sonus Networks, Inc.
+65083980.13	Sophiris Bio, Inc.
+88995685.81	SORL Auto Parts, Inc.
+203776518.2	Sorrento Therapeutics, Inc.
+64201570.83	Sotherly Hotels Inc.
+43746391.5	Sound Financial Bancorp, Inc.
+42917295.72	Southcoast Financial Corporation
+58882455.45	Southern First Bancshares, Inc.
+108541867.8	Southern Missouri Bancorp, Inc.
+117179928.3	Southern National Bancorp of Virginia, Inc.
+519637029	Southside Bancshares, Inc.
+335943958.9	Southwest Bancorp, Inc.
+30669102	SP Bancorp, Inc.
+595166477.4	SP Plus Corporation
+57845740.16	Span-America Medical Systems, Inc.
+28437093.28	Spanish Broadcasting System, Inc.
+43508634.69	SPAR Group, Inc.
+190846591.3	Spartan Motors, Inc.
+482551668.5	Spartan Stores, Inc.
+553506255.4	Spectrum Pharmaceuticals, Inc.
+256509784.7	Speed Commerce, Inc.
+18397038.8	Spherix Incorporated
+3944014696	Spirit Airlines, Inc.
+10040796184	Splunk Inc.
+16318857.65	Sport Chalet, Inc.
+16318857.65	Sport Chalet, Inc.
+5264300287	Sprouts Farmers Market, Inc.
+1037692541	SPS Commerce, Inc.
+3194591716	SS&C Technologies Holdings, Inc.
+546033101.5	STAAR Surgical Company
+574618564.9	Stamps.com Inc.
+44688086.52	Stanley Furniture Company, Inc.
+8556619272	Staples, Inc.
+315878623.8	Star Bulk Carriers Corp.
+153562916.7	Star Scientific, Inc.
+54848104000	Starbucks Corporation
+278989570.3	Starz
+3523022480	Starz
+772604885	State Auto Financial Corporation
+541133001.2	State Bank Financial Corporation.
+37564777	State Investors Bancorp, Inc.
+324807296.2	StealthGas, Inc.
+3920240990	Steel Dynamics, Inc.
+576234789.1	Stein Mart, Inc.
+647059110.9	Steiner Leisure Limited
+81603748.64	StemCells, Inc.
+384858798.7	Stemline Therapeutics, Inc.
+112122647.8	Stereotaxis, Inc.
+9826697589	Stericycle, Inc.
+154964263.2	Sterling Construction Company Inc
+1875901329	Sterling Financial Corporation
+2351164287	Steven Madden, Ltd.
+28222875.5	Stewardship Financial Corp
+478545544.2	Stock Building Supply Holdings, Inc.
+148200000	StoneCastle Financial Corp
+6166331760	Stratasys, Ltd.
+216781070.2	Strattec Security Corporation
+142553767.4	Stratus Properties, Inc.
+510401003.9	Strayer Education, Inc.
+112007339.4	Streamline Health Solutions, Inc.
+504282565.2	Student Transportation Inc
+361847501.3	Sucampo Pharmaceuticals, Inc.
+228104105.9	Suffolk Bancorp
+33070262.96	Summer Infant, Inc.
+79823824	Summit Financial Group, Inc.
+52943808.04	Summit State Bank
+288258253.2	Sun Bancorp, Inc.
+1109258883	Sun Hydraulics Corporation
+272071805	Sunesis Pharmaceuticals, Inc.
+844792783.7	Sungy Mobile Limited
+624695018.5	SunOpta, Inc.
+4101962156	SunPower Corporation
+140774056.7	Sunshine Heart Inc
+898560540.6	Super Micro Computer, Inc.
+71710094.28	SuperCom, Ltd.
+28883875.5	Superconductor Technologies Inc.
+96901489	Superior Uniform Group, Inc.
+333017117.5	Supernus Pharmaceuticals, Inc.
+4803554.6	Supertel Hospitality, Inc.
+5885250	Supertel Hospitality, Inc.
+9098272.46	Supertel Hospitality, Inc.
+377158901.3	Supertex, Inc.
+135104514.6	support.com, Inc.
+1175181547	Surgical Care Affiliates, Inc.
+343120883.5	SurModics, Inc.
+1964144075	Susquehanna Bancshares, Inc.
+41199105.7	Sussex Bancorp
+75170818.64	Sutor Technology Group Limited
+27457768.78	Sutron Corporation
+5465364566	SVB Financial Group
+92658573.94	Swisher Hygiene, Inc.
+888803625.7	Sykes Enterprises, Incorporated
+14289526900	Symantec Corporation
+72723431.76	Synacor, Inc.
+3378737668	Synageva BioPharma Corp.
+128145050	Synalloy Corporation
+2060565112	Synaptics Incorporated
+1312656056	Synchronoss Technologies, Inc.
+87524526.76	Synergetics USA, Inc.
+25454548	Synergy Pharmaceuticals, Inc.
+524859909.3	Synergy Pharmaceuticals, Inc.
+422312461.2	Syneron Medical Ltd.
+6235453160	Synopsys, Inc.
+548736338.6	Synta Pharmaceuticals Corp.
+3842852352	Syntel, Inc.
+96853852.8	Synthesis Energy Systems, Inc.
+36875629.51	Syntroleum Corporation
+452675632.7	Synutra International, Inc.
+61248048	Sypris Solutions, Inc.
+20872634320	T. Rowe Price Group, Inc.
+6426116.96	Taitron Components Incorporated
+1873088977	Take-Two Interactive Software, Inc.
+531673222.7	Tandem Diabetes Care, Inc.
+100865469.4	Tandy Leather Factory, Inc.
+738107115.6	Tangoe, Inc.
+160228516.3	Targacept, Inc.
+975037597.6	TASER International, Inc.
+72202935.2	TAT Technologies Ltd.
+668526965	Taylor Capital Group, Inc.
+27407171.6	Taylor Devices, Inc.
+557515691.9	TCP Capital Corp.
+235684003.1	TearLab Corporation
+2204461785	Tech Data Corporation
+3276999273	Techne Corporation
+13790186.13	Technical Communications Corporation
+227449758.6	TechTarget, Inc.
+242146700	Tecnoglass Inc.
+144141535.2	Tecumseh Products Company
+146174300.4	Tecumseh Products Company
+364786454.2	Tekmira Pharmaceuticals Corp
+129147755	TeleCommunication Systems, Inc.
+223461225	TeleNav, Inc.
+1107312489	TeleTech Holdings, Inc.
+6049686.72	Telik, Inc.
+228855009.8	Territorial Bancorp Inc.
+1056703715	TESARO, Inc.
+820491504.6	Tesco Corporation
+25695687309	Tesla Motors, Inc.
+302469037.5	TESSCO Technologies Incorporated
+1039417531	Tessera Technologies, Inc.
+1830962798	Tetra Tech, Inc.
+193219671.6	TetraLogic Pharmaceuticals Corporation
+355101769.9	Tetraphase Pharmaceuticals, Inc.
+141120000	Texas Capital Bancshares, Inc.
+2458899290	Texas Capital Bancshares, Inc.
+48324961483	Texas Instruments Incorporated
+1828317407	Texas Roadhouse, Inc.
+94603139.56	TF Financial Corporation
+3611829431	TFS Financial Corporation
+187258627.4	TG Therapeutics, Inc.
+151857960.6	TGC Industries, Inc.
+2333094849	The Advisory Board Company
+1009426000	The Andersons, Inc.
+720389714.9	The Bancorp, Inc.
+262113138.6	The Bank of Kentucky Financial Corp.
+194475896.5	The Bon-Ton Stores, Inc.
+11549900575	The Carlyle Group L.P.
+2429899860	The Cheesecake Factory Incorporated
+566614393.2	The Chefs&#39; Warehouse, Inc.
+1205413245	The Children&#39;s Place Retail Stores, Inc.
+95363088.48	The Community Financial Corporation
+885742865.8	The Descartes Systems Group Inc.
+194611639.5	The Dixie Group, Inc.
+842995842.9	The Ensign Group, Inc.
+667585011.2	The ExOne Company
+1240063506	The Finish Line, Inc.
+74053399.5	The First Bancshares, Inc.
+359267177.3	The First of Long Island Corporation
+1563298639	The Fresh Market, Inc.
+6552654209	The Goodyear Tire & Rubber Company
+185661813.2	The Hackett Group, Inc.
+4181477300	The Hain Celestial Group, Inc.
+30090727.38	The Herzfeld Caribbean Basin Fund, Inc.
+44104341.47	The Intergroup Corporation
+652183265.9	The KEYW Holding Corporation
+4497154663	The Madison Square Garden Company
+23912604.54	The Management Network Group, Inc.
+1909319404	The Medicines Company
+5019544791	The Middleby Corporation
+6523734342	The NASDAQ OMX Group, Inc.
+864290323.8	The Navigators Group, Inc.
+327144547.3	The Pantry, Inc.
+358675589.1	The Providence Service Corporation
+1080803800	The Spectranetics Corporation
+4715759637	The Ultimate Software Group, Inc.
+159278147.7	The Wet Seal, Inc.
+262351427.6	The York Water Company
+55021338.71	The9 Limited
+4343827435	Theravance, Inc.
+96050123.59	TheStreet, Inc.
+537736503.7	THL Credit, Inc.
+2035557180	Thoratec Corporation
+282499066.7	Threshold Pharmaceuticals, Inc.
+20655989.65	THT Heat Transfer Technology, Inc.
+23737403.6	Tianli Agritech, Inc.
+3434620042	TIBCO Software, Inc.
+555660754.6	TICC Capital Corp.
+49040238.68	TigerLogic Corporation
+760210466.4	Tile Shop Hldgs, Inc.
+78933523.2	Timberland Bancorp, Inc.
+287821271.8	Tiptree Financial Inc.
+330216517.6	Titan Machinery Inc.
+1551094659	TiVo Inc.
+143581757.1	Tonix Pharmaceuticals Holding Corp.
+62823954.66	Top Image Systems, Ltd.
+23216670.9	TOP Ships Inc.
+30598729.76	TOR Minerals International Inc
+73659615	Torchlight Energy Resources, Inc.
+982696410.7	Tornier N.V.
+105386356	Tower Financial Corporation
+158504313.2	Tower Group International, Ltd.
+335550130.5	Tower Semiconductor Ltd.
+172690388	Towerstream Corporation
+205625365.7	Town Sports International Holdings, Inc.
+475579497	Towne Bank
+9268581050	Tractor Supply Company
+88882153.75	Trade Street Residential, Inc.
+126813035.6	Trans World Entertainment Corp.
+95060007.4	TransAct Technologies Incorporated
+61493612.78	Transcat, Inc.
+62745152.04	Transcept Pharmaceuticals, Inc.
+549051539.8	Transglobe Energy Corp
+198886424.7	Transition Therapeutics, Inc.
+361464871.7	Travelzoo Inc.
+370613061.4	Tree.com, Inc.
+190434271.4	Trevena, Inc.
+399505050.7	TriCo Bancshares
+1492910960	TriMas Corporation
+9903709184	Trimble Navigation Limited
+590698126.4	Trinity Biotech plc
+13768696337	TripAdvisor, Inc.
+1482391562	TriQuint Semiconductor, Inc.
+385884252.6	TriState Capital Holdings, Inc.
+12167674.56	Tri-Tech Holding Inc.
+127406159.3	TrovaGene, Inc.
+15902730	Truett-Hurst, Inc.
+49321480.5	Trunkbow International Holdings Ltd.
+613006265.3	TrustCo Bank Corp NY
+1552012631	Trustmark Corporation
+6376701.5	TSR, Inc.
+675240745	TTM Technologies, Inc.
+147463491.8	Tucows Inc.
+625792511.5	Tuesday Morning Corp.
+26155308.29	Tufco Technologies, Inc.
+4406977441	tw telecom inc.
+48859422295	Twenty-First Century Fox, Inc.
+253274269.5	Twin Disc, Incorporated
+62982542.26	Two River Bancorp
+348241491.4	U S Concrete, Inc.
+68198659.95	U.S. Auto Parts Network, Inc.
+113775494.2	U.S. Energy Corp.
+57686683.76	U.S. Global Investors, Inc.
+3434183.907	UBIC, Inc.
+4433664902	Ubiquiti Networks, Inc.
+177207424.4	UFP Technologies, Inc.
+5522702784	Ulta Salon, Cosmetics & Fragrance, Inc.
+382734337.1	Ultra Clean Holdings, Inc.
+1717556576	Ultragenyx Pharmaceutical Inc.
+64829463.79	Ultralife Corporation
+467596891.7	Ultrapetrol (Bahamas) Limited
+725789056.8	Ultratech, Inc.
+2632070203	UMB Financial Corporation
+1879386580	Umpqua Holdings Corporation
+69488322.47	Unico American Corporation
+430103795.5	Unilife Corporation
+100892664.2	Union Bankshares, Inc.
+1168682838	Union First Market Bankshares Corporation
+122238119.5	Uni-Pixel, Inc.
+44189529.68	United Bancorp, Inc.
+54359994.27	United Bancshares, Inc.
+1433289239	United Bankshares, Inc.
+57160160.4	United Community Bancorp
+959026630.4	United Community Banks, Inc.
+179820579	United Community Financial Corp.
+348008088.5	United Financial Bancorp, Inc.
+752212114.3	United Fire Group, Inc
+237304371.6	United Insurance Holdings Corp.
+3435016826	United Natural Foods, Inc.
+166591636.7	United Online, Inc.
+77255316.18	United Security Bancshares
+45994334.33	United Security Bancshares, Inc.
+316433405.5	United States Lime & Minerals, Inc.
+1671931182	United Stationers Inc.
+5190417154	United Therapeutics Corporation
+130079223.7	United-Guardian, Inc.
+30544195.5	UniTek Global Services, Inc.
+59026345.32	Unity Bancorp, Inc.
+1533367021	Universal Display Corporation
+623956510.7	Universal Electronics Inc.
+1060872518	Universal Forest Products, Inc.
+236798984	Universal Stainless & Alloy Products, Inc.
+742648337.3	Universal Truckload Services, Inc.
+305150054	Univest Corporation of Pennsylvania
+166998551.4	Unwired Planet, Inc.
+51481794	Uranium Resources, Inc.
+5291359934	Urban Outfitters, Inc.
+93600646.5	Uroplasty, Inc.
+764550595.2	US Ecology, Inc.
+314391991.3	USA Mobility, Inc.
+8901260	USA Technologies, Inc.
+73962084.7	USA Technologies, Inc.
+150939747.8	USA Truck, Inc.
+146024345	USMD Holdings, Inc.
+214589724	Utah Medical Products, Inc.
+1613320370	UTi Worldwide Inc.
+104805058.7	UTStarcom Holdings Corp
+53142415.5	Valley Financial Corporation
+133617021.6	Value Line, Inc.
+288189306.1	ValueVision Media, Inc.
+462670077.6	Vanda Pharmaceuticals Inc.
+122815360	Vanguard Emerging Markets Government Bond ETF
+1297544000	Vanguard Global ex-U.S. Real Estate ETF
+120857100	Vanguard Intermediate -Term Government Bond ETF
+3214420000	Vanguard Intermediate-Term Corporate Bond ETF
+616464000	Vanguard Long-Term Corporate Bond ETF
+73722000	Vanguard Long-Term Government Bond ETF
+377702000	Vanguard Mortgage-Backed Securities ETF
+2392946325	Vanguard Natural Resources LLC
+272537600	Vanguard Russell 1000 ETF
+230880000	Vanguard Russell 1000 Growth ETF
+188452800	Vanguard Russell 1000 Value ETF
+359619000	Vanguard Russell 2000 ETF
+120327960	Vanguard Russell 2000 Growth ETF
+67808080	Vanguard Russell 2000 Value ETF
+86140000	Vanguard Russell 3000 ETF
+7679328000	Vanguard Short-Term Corporate Bond ETF
+414324000	Vanguard Short-Term Government ETF
+1093287000	Vanguard Short-Term Inflation-Protected Securities Index Fund
+869671000	Vanguard Total International Bond ETF
+2456762000	Vanguard Total International Stock ETF
+316551180.4	VASCO Data Security International, Inc.
+429909277.8	Vascular Solutions, Inc.
+2702430070	VCA Antech, Inc.
+1540767023	Veeco Instruments Inc.
+1347421.32	VelocityShares Daily 2x VIX Medium Term ETN
+15763500	VelocityShares Emerging Asia DR ETF
+4564000	VelocityShares Emerging Markets DR ETF
+29436535.2	VelocityShares Equal Risk Weighted Large Cap ETF
+4833000	VelocityShares Russia Select DR ETF
+52348687.2	Venaxis, Inc.
+31705520.4	Ventrus Biosciences, Inc.
+1052120400	Vera Bradley, Inc.
+314684288.2	Veracyte, Inc.
+385228934.6	Verastem, Inc.
+2501709304	Verint Systems Inc.
+7536508342	VeriSign, Inc.
+11024237521	Verisk Analytics, Inc.
+109268302.7	Vermillion, Inc.
+82471010.86	Vertex Energy, Inc
+19824920230	Vertex Pharmaceuticals Incorporated
+8747489.462	Vestin Realty Mortgage I, Inc.
+62107864.5	Vestin Realty Mortgage II, Inc.
+37676892871	Viacom Inc.
+38089619073	Viacom Inc.
+3046385871	ViaSat, Inc.
+277779169.5	Viasystems Group, Inc.
+124959392.6	Vical Incorporated
+427388316.4	Vicor Corporation
+2492000	Vident Core US Equity ETF
+29116923.07	Video Display Corporation
+978441231.2	ViewPoint Financial Group, Inc.
+69890000	Viewtran Group, Inc.
+5824959.15	Village Bank and Trust Financial Corp.
+386548892.1	Village Super Market, Inc.
+79949736.44	Vimicro International Corporation
+16819297065	VimpelCom Ltd.
+36383887.93	Virco Manufacturing Corporation
+10101739.28	VirtualScopics, Inc.
+1617707372	Virtus Investment Partners, Inc.
+1058208437	Virtusa Corporation
+132029918.4	VisionChina Media, Inc.
+69532278	Vision-Sciences, Inc.
+1697016674	Vistaprint N.V.
+195472499.9	Vitacost.com, Inc.
+208763711.6	Vitesse Semiconductor Corporation
+106694761.7	Vitran Corporation, Inc.
+688541936.1	VIVUS, Inc.
+273033967.2	Vocus, Inc.
+1.8902E+11	Vodafone Group Plc
+1209166800	Volcano Corporation
+18668927.93	Voltari Corporation
+308348848	VOXX International Corporation
+341550496.3	Vringo, Inc.
+246708142	VSE Corporation
+274604236.4	Warren Resources, Inc.
+281949414.5	Washington Banking Company
+2215852288	Washington Federal, Inc.
+570721236.3	Washington Trust Bancorp, Inc.
+109154206.6	WashingtonFirst Bankshares Inc
+331675773.9	Waterstone Financial, Inc.
+32194120.55	Wave Systems Corp.
+33910488.25	Wayne Savings Bancshares Inc.
+66366119.34	Wayside Technology Group, Inc.
+1073949936	WD-40 Company
+1819136396	Web.com Group, Inc.
+1926724475	WebMD Health Corp
+46476612	Wellesley Bancorp, Inc.
+3889482132	Wendy&#39;s Company (The)
+1876090020	Werner Enterprises, Inc.
+818279700.7	WesBanco, Inc.
+230376861.7	West Bancorporation
+2061043935	West Corporation
+313328485.9	West Marine, Inc.
+1299493102	Westamerica Bancorporation
+74052590.4	Westbury Bancorp, Inc.
+243749100.4	Westell Technologies, Inc.
+20793382184	Western Digital Corporation
+151617403.5	Westfield Financial, Inc.
+5888127.6	Westmoreland Coal Company
+316067723.5	Westmoreland Coal Company
+1047026488	Westport Innovations Inc
+280724686.9	Weyco Group, Inc.
+30678692.2	Wheeler Real Estate Investment Trust, Inc.
+224655840	WhiteHorse Finance, Inc.
+19642228169	Whole Foods Market, Inc.
+370518859.4	Wi-Lan Inc
+30522825.52	Willamette Valley Vineyards, Inc.
+34056202.97	Willdan Group, Inc.
+149632375.8	Willis Lease Finance Corporation
+696497527	Wilshire Bancorp, Inc.
+4685135108	Windstream Holdings, Inc.
+422740949.9	Winmark Corporation
+1759871504	Wintrust Financial Corporation
+19776000	WisdomTree China Dividend Ex-Financials Fund
+18520092.6	WisdomTree Emerging Markets Consumer Growth Fund
+103857600	WisdomTree Emerging Markets Corporate Bond Fund
+14076093.84	WisdomTree Emerging Markets Dividend Growth Fund
+8163108.84	WisdomTree Germany Hedged Equity Fund
+7401000	WisdomTree Global Corporate Bond Fund
+1895584098	WisdomTree Investments, Inc.
+69264115.44	WisdomTree Japan Hedged SmallCap Equity Fund
+5855093.68	WisdomTree Korea Hedged Equity Fund
+31528000	WisdomTree Middle East Dividend Fund
+94047109.04	WisdomTree U.S. Dividend Growth Fund
+23417610.2	WisdomTree U.S. SmallCap Dividend Growth Fund
+21736188.68	WisdomTree United Kingdom Hedged Equity Fund
+1093335106	Wix.com Ltd.
+51566782.5	Wolverine Bancorp, Inc.
+2912668991	Woodward, Inc.
+1162151756	World Acceptance Corporation
+51383581.2	World Energy Solutions Inc (DE)
+2790017.51	WPCS International Incorporated
+30045840600	WPP plc
+1504343082	Wright Medical Group, Inc.
+626606054.4	WSFS Financial Corporation
+18975775.14	WSI Industries Inc.
+23275188.3	WVS Financial Corp.
+23098813668	Wynn Resorts, Limited
+325119464.8	Xencor, Inc.
+63828194.62	Xenith Bankshares, Inc.
+359591654.7	XenoPort, Inc.
+24408348.37	XG Technology, Inc
+13558893607	Xilinx, Inc.
+866664480	XOMA Corporation
+1010919305	Xoom Corporation
+54585251.5	Xplore Technologies Corp
+29471118.48	XRS Corporation
+45147536.44	XTL Biopharmaceuticals Ltd.
+364658490	Xyratex Ltd.
+275021812.3	Yadkin Financial Corporation
+37828554038	Yahoo! Inc.
+11945761265	Yandex N.V.
+334015573.4	Yongye International, Inc.
+97286814.24	You On Demand Holdings, Inc.
+242162200.6	YRC Worldwide, Inc.
+3753403656	YY Inc.
+132220255.1	ZAGG Inc
+39656625.2	Zalicus Inc.
+100871689.6	ZaZa Energy Corporation
+3329722843	Zebra Technologies Corporation
+757727015	ZELTIQ Aesthetics, Inc.
+127004663.9	Zhone Technologies, Inc.
+3098083308	Zillow, Inc.
+59509968	Zion Oil & Gas Inc
+5521841649	Zions Bancorporation
+368262527.6	ZIOPHARM Oncology Inc
+108235490	ZipRealty, Inc.
+292739547.7	Zix Corporation
+647988747.1	Zogenix, Inc.
+575418680.1	Zoltek Companies, Inc.
+13267559.97	Zoom Technologies, Inc.
+4968058972	zulily, inc.
+678642791.9	Zumiez Inc.
+276911321.3	Zygo Corporation
+4077765510	Zynga Inc.
